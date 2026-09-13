@@ -28,6 +28,11 @@ Held here now:
 - `wwi_draft_james_lewis` — WWI draft card; introduced a third, conflicting birth date (17 Jan 1883) rather than settling the dispute
 - `census_1870_smith` / `census_1900_smith` / `marriage_1886_smith_hall` — the William Smith paternity-candidate records
 - `ss5_numident_alice` / `ss5_numident_alice_2` — SS-5 index pages for Dora Jane Lewis and Samuel Lewis, both naming Alice's maiden name as Smith
+- `wash_co_va_marriage_1905` — the 1905 Lewis/Stovall register itself, found via
+  Ancestry's copy of the same Library of Virginia collection (FamilySearch
+  restricts it to affiliate-library access, but Ancestry hosts it openly).
+  Confirms the facts already on file: James's parents "G W & Harriet", Alice's
+  parents blank father & "Maggie".
 
 Still wanted, in the order they are worth chasing:
 
@@ -36,8 +41,3 @@ Still wanted, in the order they are worth chasing:
 3. `csa_63rd_tn_service` — Hiram Sams service record
 4. `wash_co_va_bastardy` — bastardy investigation papers. Not a scan but an
    archive visit, and still the best shot at Alice's father.
-5. `wash_co_va_marriage_1905` — the 1905 Lewis/Stovall register itself. The
-   index has been read and matches exactly, but the page image is Library of
-   Virginia property, restricted to FamilySearch centre/affiliate library
-   access — film 10784524, image 398 of 539. Not obtainable from a home
-   browser session.

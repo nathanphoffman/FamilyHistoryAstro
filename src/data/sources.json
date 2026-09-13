@@ -5,11 +5,12 @@
     "note": "Compiled by an AI assistant working from census, vital and newspaper records, including record images. The underlying documents were real and were examined; what was not kept was which document backed which fact. Treated as reasonably reliable, and deliberately not marked unverified."
   },
   "wash_co_va_marriage_1905": {
-    "title": "Marriage register, James Hiram Lewis & Alice Louise Stovall, 1905",
-    "repository": "Washington Co., Virginia",
-    "date": "1905",
+    "title": "Marriage register, James Hiram Lewis & Alice Louise Stovall, 18 Oct 1905",
+    "repository": "Virginia, U.S., Marriage Registers, 1853-1935 (Ancestry); same Library of Virginia register restricted to affiliate access under FamilySearch's \"Virginia, Vital Records, 1853-1934\"",
+    "date": "1905-10-18",
     "reliability": "primary",
-    "note": "The parents' columns are blank for Alice. James's parents are given only as \"G Wm\" and \"Harriott\"."
+    "note": "Image read here (line 163, Washington County register, year 1905): \"Jas H Lewis\" and \"Alice L Stovall\", ages 20 and 19, single, occupation of husband \"Laborer\", ceremony performed by \"H B Miller\". Parents column confirms the facts already carried here: husband's parents \"G W & Harriet\"; wife's parents a blank/dash and \"Maggie\" — no father recorded, mother Maggie. (An initial read of this image misaligned by one row, due to skew across the wide scan, and briefly attached line 162's data — Daul Purce & E.L. Purce, parents \"— & Martha\" / \"E R & Eliza\" — to this couple. Corrected after a pixel-aligned re-check confirmed line 163 against the row-number column.)",
+    "image": "/img/wash_co_va_marriage_1905.jpg"
   },
   "sams_death_cert_1913": {
     "title": "Death certificate, Harriet Eliza Sams, 1913",

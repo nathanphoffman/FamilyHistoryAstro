@@ -69,10 +69,10 @@ October 1905 in Washington County, Virginia, when she was
 nineteen.[^wash_co_va_marriage_1905][^va_vital_index_1905] She died 2 August 1965
 at York, Pennsylvania.[^stovall_death_cert_1965]
 
-The parents' column of that register has now been read from the index
-transcription, and it says more than "blank". Where the groom's side gives two
-names — "G Wm" and "Harriott" — the bride's side gives exactly one: **Maggie**.
-No father, not even an initial.[^va_vital_index_1905]
+The parents' column of that register has now been read directly from the
+register image itself, confirming the earlier index transcription. Where the
+groom's side gives two names — "G W" and "Harriet" — the bride's side gives
+exactly one: **Maggie**. No father, not even an initial.[^wash_co_va_marriage_1905][^va_vital_index_1905]
 
 That is the difference between an absent record and a recorded absence. A clerk
 taking the entry in 1905 wrote down the one parent there was to write down, which
