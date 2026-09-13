@@ -14,7 +14,7 @@ parents:
   mother: maggie_stovall
   confidence: unconfirmed
   note: "Father unrecorded. The Washington Co. bastardy investigation is the most likely avenue for identifying him."
-  citations: [wash_co_va_marriage_1905, wash_co_va_bastardy, stovall_death_cert_1965]
+  citations: [wash_co_va_marriage_1905, wash_co_va_bastardy, stovall_death_cert_1965, ss5_numident_alice, ss5_numident_alice_2]
   candidates:
     - name: William "Will" Smith
       parent: father
@@ -97,9 +97,10 @@ at all, and the informant appears to have given her grandfather's name in
 error.[^stovall_death_cert_1965]
 
 Against that silence, two of Alice's own children recorded her maiden name as
-**Smith**, not Stovall, on their federal Social Security
-applications.[^ss5_numident_alice] That is a striking thing for two people to get
-independently wrong, and it is the strongest positive pointer available.
+**Smith**, not Stovall, on their federal Social Security applications: Dora Jane
+Lewis[^ss5_numident_alice] and Samuel Lewis.[^ss5_numident_alice_2] That is a
+striking thing for two people to get independently wrong, and it is the
+strongest positive pointer available.
 
 The candidate raised on that basis was William "Will" Smith of the Glade Spring
 District, born about 1863–65, son of Andrew Smith (recorded Black) and Sallie

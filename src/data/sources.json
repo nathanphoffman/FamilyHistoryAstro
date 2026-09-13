@@ -95,7 +95,8 @@
     "repository": "U.S. Federal Census",
     "date": "1870",
     "reliability": "primary",
-    "note": "Andrew Smith recorded as Black, Sallie Smith as Mulatto, with son William born c.1863–65."
+    "note": "Image read here. Andrew Smith, age 30, recorded Black; wife Sallie, 22, recorded Mulatto; children Mary (8), Harriet (6), William (5), Sarah (4), Saml (3), Margaret (2). William's age fits the c.1863–65 birth window.",
+    "image": "/img/census_1870_smith.jpg"
   },
   "census_1880_smith": {
     "title": "1880 U.S. census, Glade Spring District — William Smith, age 16",
@@ -108,27 +109,38 @@
     "repository": "U.S. Federal Census",
     "date": "1900",
     "reliability": "primary",
-    "note": "Age 37, race recorded Black, occupation labourer; wife Virgie, son Richard (b. 1889) and niece Irene Dickison in the household."
+    "note": "Image read here. \"Will Smith\", age 37, b. Sept 1863, race recorded Black, married 9 years, occupation labourer; wife Virgie (24), son Richard (11, b. c.1889), niece Irene Dickison (1) in the household. FamilySearch tree-attached to the same William Smith identity (KLTW-485) as the 1870 and 1886 records.",
+    "image": "/img/census_1900_smith.jpg"
   },
   "marriage_1886_smith_hall": {
-    "title": "Marriage, William Smith & Jennie Hall, 1886",
+    "title": "Marriage, William Smith & Jennie Hall, 26 Jun 1886",
     "repository": "Washington Co., Virginia",
-    "date": "1886",
+    "date": "1886-06-26",
     "reliability": "primary",
-    "note": "Names the groom as son of Andrew and Sallie Smith, but the manuscript records both parties as white. It therefore cannot refer to the Will Smith of the 1870 census, and no longer supports that identification."
+    "note": "Image read here (Washington County Court, Marriage Register H-Z 1785-1902; also indexed in \"Virginia, Vital Records, 1715-1912\" — the equivalent entry in \"Virginia, Bureau of Vital Statistics, County Marriage Registers, 1853-1935\" is affiliate-library restricted). William Smith, 21, b. c.1865, married Jennie Hall, 21. Parents indexed as \"Sallie Smith\" and \"and[rew] Smith\", confirming this is Andrew and Sallie's son William. Both parties are recorded as white — a striking contrast to William being recorded as Black in the 1870 and 1900 censuses — so this record no longer supports the identification with the Will Smith of the 1870 census.",
+    "image": "/img/marriage_1886_smith_hall.jpg"
   },
   "stovall_death_cert_1965": {
     "title": "Death certificate, Alice Louise Stovall, 1965",
-    "repository": "York, Pennsylvania",
+    "repository": "Pennsylvania, U.S., Death Certificates, 1906–1972 (Ancestry)",
     "date": "1965-08-02",
     "reliability": "primary",
-    "note": "Gives no clear father. The informant appears to have named her grandfather in error."
+    "note": "Image read here. State file no. 083769-65. Alice L. Lewis [indexed as Alice L. Stovall], died York, PA, 2 Aug 1965 at York Hospital; born 14 May 1886, Virginia; age 79; housewife; spouse James H. Lewis. Father given only as \"A. Stovall\", mother's maiden name \"Maggie Roak\" (Maggie's later married surname, not her maiden name). Cause of death anuria due to arteriolar nephrosclerosis. Buried Stewartstown Cemetery, 6 Aug 1965. Informant Samuel Lewis of York, PA. The bare initial \"A.\" for the father, with no other name recorded, is consistent with the informant naming her grandfather J. Q. A. Stovall in error rather than a real father named.",
+    "image": "/img/stovall_death_cert_1965.png"
   },
   "ss5_numident_alice": {
-    "title": "SS-5 / NUMIDENT applications of two children of Alice Louise Stovall",
-    "repository": "U.S. Social Security Administration",
+    "title": "SS-5 / NUMIDENT application, Dora Jane Lewis, daughter of Alice Louise Stovall",
+    "repository": "U.S., Social Security Applications and Claims Index, 1936–2007 (Ancestry)",
     "reliability": "primary",
-    "note": "Both give their mother's maiden name as Smith rather than Stovall."
+    "note": "Derived index record, not a scanned SS-5 image; page captured here. Dora Jane Lewis, b. 24 Nov 1918, Richmond (Henrico), Virginia, d. Oct 1989. Father \"James H Lewis\", mother \"Alice L Smith\" — her maiden name given as Smith, not Stovall. See also ss5_numident_alice_2 for a second child's record with the same discrepancy.",
+    "image": "/img/ss5_numident_alice.png"
+  },
+  "ss5_numident_alice_2": {
+    "title": "SS-5 / NUMIDENT application, Samuel Lewis, son of Alice Louise Stovall",
+    "repository": "U.S., Social Security Applications and Claims Index, 1936–2007 (Ancestry)",
+    "reliability": "primary",
+    "note": "Derived index record, not a scanned SS-5 image; page captured here. Samuel Lewis, b. 4 Jun 1922, Cardiff, Maryland, d. 13 Oct 1992. Father \"James H Lewis\", mother \"Alice Smith\" — her maiden name given as Smith, not Stovall, independently corroborating ss5_numident_alice.",
+    "image": "/img/ss5_numident_alice_2.png"
   },
   "jqa_stovall_absence": {
     "title": "Census and marriage records documenting J. Q. A. Stovall's departure and remarriages",
@@ -205,11 +217,12 @@
     "note": "The family's own Ancestry tree, imported 4 September 2026. Parts of it were typed in years ago or copied from other user-submitted trees, and the claims cited to it here carry no attached record. Everything resting on it alone is marked unverified on the page."
   },
   "lewis_obit_1955": {
-    "title": "Obituary, James H. Lewis, York Daily Record, 18 Jul 1955, p. 26",
+    "title": "Obituary, James H. Lewis, The Gazette and Daily (York, PA; the paper later became the York Daily Record), 18 Jul 1955, p. 26",
     "repository": "Newspapers.com",
     "date": "1955-07-18",
-    "reliability": "reported",
-    "note": "Read and quoted by an AI research pass; the image has not been re-examined here. Gives his address as 540 West King Street, death at 6 p.m. Saturday at York Hospital, retirement from the York Naval Ordnance plant, nine surviving children and four siblings. Its stated age of 70 does not agree with a birth of 12 December 1885."
+    "reliability": "primary",
+    "note": "Image read here. Gives his address as 540 West King Street, death at 6 p.m. Saturday (16 July) at York Hospital, retirement from the York Naval Ordnance plant, nine surviving children (Ella V. Kunkle, Porter B., Lorene E. Wallick, Mae Hovis, Lucy E., Samuel, Donald L., Robert Lee, Dora Jane) and four siblings. Its stated age of 70 does not agree with a birth of 12 December 1885.",
+    "image": "/img/lewis_obit_1955.png"
   },
   "lewis_obit_1944_death": {
     "title": "\"George W. Lewis, Stewartstown, Dies,\" York Daily Record, 8 Jan 1944, p. 10",
@@ -243,8 +256,9 @@
     "title": "1920 U.S. census, Glade Spring, Washington Co., Virginia — James H. Lewis household",
     "repository": "U.S. Federal Census",
     "date": "1920",
-    "reliability": "reported",
-    "note": "Cited in the family's Ancestry tree; records Lorene aged 9. Not re-examined here."
+    "reliability": "primary",
+    "note": "Image read here. ED 149, sheet 6B, dwelling/family 106, enumerated 14 Jan 1920. James Lewis, head, 33; wife Alice, 35; children Ella (13), Porter (10), Lorena (9), May (7), Robert (3), Dora (1). Lorena's age 9 confirms the household (Lorene b. 1911). FamilySearch tree-attaches this record to James Hiram Lewis, 1885–1955.",
+    "image": "/img/census_1920_glade_spring.jpg"
   },
   "census_1930_york": {
     "title": "1930 U.S. census, York, Pennsylvania — Lorene E. Lewis, lodger",
@@ -264,21 +278,25 @@
     "title": "1900 U.S. census, Holston District, Washington Co., Virginia — Lewis household",
     "repository": "U.S. Federal Census",
     "date": "1900",
-    "reliability": "reported",
-    "note": "Cited in the family's Ancestry tree for both George W. Lewis and his son James. Not re-examined here."
+    "reliability": "primary",
+    "note": "Image read here. North part, ED 114, sheet 7A, dwelling/family 122, enumerated 12 Jun 1900. George W. Lewis, head, 40; wife Harriet, 43, b. Tennessee; children Walter A. (17), James H. (line 23, age 15, b. Jan 1885), Mary E. (11), Frank P. (6), Bettie J. (4), Jerrie (1). FamilySearch tree-attaches this record to James Hiram Lewis, 1885–1955.",
+    "image": "/img/census_1900_holston.jpg"
   },
   "census_1910_stony_creek": {
-    "title": "1910 U.S. census, Stony Creek, Sussex Co., Virginia — James Hiram Lewis",
+    "title": "1910 U.S. census, Stony Creek, Sussex Co., Virginia — \"J H Lewis\"",
     "repository": "U.S. Federal Census",
     "date": "1910",
-    "reliability": "reported",
-    "note": "Cited in the family's Ancestry tree. Not re-examined here, and doubtful: Stony Creek is some 250 miles east of every other fact recorded for this family. Quite possibly a different James Lewis."
+    "reliability": "derivative",
+    "note": "Image read here — and it resolves the doubt against this being our James Hiram Lewis. Indexed as \"J H Lewis\", age 25, b. c.1885 VA, race White, head of household; wife Mary K. Lewis; son Emitt P. Lewis. FamilySearch's own tree attaches this record to \"James Herbert Lewis (1884–1936)\" — a different middle name, a different wife (Mary K., not Alice Louise Stovall), and a death year/place inconsistent with James Hiram Lewis (d. 1955, York PA). Kept on file as a documented near-miss, not as evidence for this person.",
+    "image": "/img/census_1910_stony_creek.jpg"
   },
   "wwi_draft_james_lewis": {
-    "title": "WWI draft registration card, James Hiram Lewis, 1917–1918",
+    "title": "WWI draft registration card, James Hiram Lewis, registered 12 Sep 1918",
     "repository": "U.S. Selective Service System",
-    "reliability": "reported",
-    "note": "Cited in the family's Ancestry tree. Not re-examined here."
+    "date": "1918-09-12",
+    "reliability": "primary",
+    "note": "Image read here. Gives his birth date as 17 January 1883 — a THIRD date, disagreeing with both the 12 December 1885 date carried on this record and the 1884/1885 window implied by the 1905 marriage register and the 1955 obituary. Address \"Glade Spring, Washington Co, VA\"; occupation farming for \"Huff Brother[s]\"; nearest relative \"Alace [Alice] Lewis\". Ties this James Lewis directly to the Glade Spring district, and independently confirms he was married to an Alice by 1918.",
+    "image": "/img/wwi_draft_james_lewis.jpg"
   },
   "census_1880_sullivan_harriet": {
     "title": "1880 U.S. census, Sullivan Co., Tennessee — Harriet E. Sams, niece in household",

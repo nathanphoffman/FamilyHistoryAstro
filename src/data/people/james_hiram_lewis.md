@@ -104,19 +104,27 @@ did not record which document it came from.[^prior_ai_research]
 
 The date is kept, because two stated ages are not the same thing as a birth
 record and both could have been rounded or misheard. But it is the weakest fact
-on this record, and it is the one to test first: a delayed birth certificate,
-his WWI draft registration, or the 1900 census would each settle it, and the
-draft card is already cited here.[^wwi_draft_james_lewis]
+on this record, and testing it has only made it messier: his WWI draft
+registration, read directly, gives a third date — 17 January
+1883[^wwi_draft_james_lewis] — agreeing with neither the 1885 date carried here
+nor the late-1884/1885 window implied by the marriage register and obituary.
+Three records now give three different years. The 1900 census, taken closest to
+the event and naming him as a child in his parents' household, is probably the
+best evidence available: it gives "James H.", age 15, born January
+1885.[^census_1900_holston] That single record does not resolve the conflict on
+its own, but it tips the weight of evidence toward the date already carried
+here rather than away from it.
 
 His earlier movements are traced through the census: the Holston District of
 Washington County in 1900,[^census_1900_holston] and Glade Spring in
 1920,[^census_1920_glade_spring] with a WWI draft registration between
 them.[^wwi_draft_james_lewis]
 
-The 1910 entry does not fit with them. It places him at Stony Creek in Sussex
-County — some 250 miles east, across the state, with every other fact about this
-family sitting in the far southwest corner of
-Virginia.[^census_1910_stony_creek] A young man of twenty-four could have gone
-looking for work, but a lone outlier at that distance is more often a different
-James Lewis. The citation is kept because it cannot be disproved from here, and
-should be checked against the image before it is relied on.
+The 1910 entry does not fit with them, and reading the image has now confirmed
+why: it records a "J H Lewis" at Stony Creek in Sussex County — some 250 miles
+east of every other fact about this family — with a wife Mary K. Lewis and son
+Emitt P. Lewis, and FamilySearch's own tree attaches the record to a separate
+person, James Herbert Lewis (1884–1936).[^census_1910_stony_creek] Different
+middle name, different wife, different death year and place. The citation is
+kept on file as a documented near-miss, not as evidence for this
+James Hiram Lewis.
