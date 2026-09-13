@@ -1,0 +1,21 @@
+---
+import Layout from '../../components/Layout.astro';
+import PersonBio from '../../components/render/PersonBio';
+import { allPeople, buildPerson } from '../../lib/data';
+
+export async function getStaticPaths() {
+  return (await allPeople()).map((id) => ({ params: { personId: id } }));
+}
+
+const { personId } = Astro.params;
+const { person, ctx } = await buildPerson(personId!);
+---
+
+<Layout title={person.name}>
+  <p class="mx-auto mt-0 mb-[18px] max-w-[820px] text-[.85rem]"><a href="/" class="text-accent">← All charts</a></p>
+  <article id="bio" class="mx-auto max-w-[820px]">
+    <div class="flex items-start gap-6 max-[700px]:block">
+      <PersonBio person={person} ctx={ctx} />
+    </div>
+  </article>
+</Layout>

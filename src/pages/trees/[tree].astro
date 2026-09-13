@@ -1,0 +1,83 @@
+---
+import Layout from '../../components/Layout.astro';
+import Chart from '../../components/tree/Chart';
+import trees from '../../data/trees.json';
+import { buildChart } from '../../lib/data';
+
+export async function getStaticPaths() {
+  return trees.map((t) => ({ params: { tree: t.person }, props: { title: t.title } }));
+}
+
+const { tree } = Astro.params;
+const { title } = Astro.props;
+
+const chart = await buildChart(tree!);
+
+const keyEntries = Object.values(chart.tags);
+
+// Spouses of the tree's root person, linked when they have a chart of their
+// own. Kept to the root deliberately — boxes further up the chart stay plain.
+const spouses = (chart.people[chart.root.id]?.unions ?? []).flatMap((unionId) => {
+  const union = chart.unions[unionId];
+  if (!union) return [];
+  const otherId = union.spouses.find((id) => id !== chart.root.id);
+  const other = otherId ? chart.people[otherId] : undefined;
+  return other ? [other] : [];
+});
+---
+
+<Layout title={title}>
+  {chart.root.relation && <p class="mt-0 mb-0.5 block text-center text-[.72rem] uppercase tracking-[1.6px] text-ink-faint">{chart.root.relation}</p>}
+  <h1 class="m-0 mb-1 text-center text-[1.9rem]">{chart.root.name}</h1>
+  <p class="m-0 mb-2 text-center text-[.95rem] text-ink-faint">{chart.root.dates} — lineage (ancestry) chart</p>
+  {
+    spouses.length > 0 && (
+      <p class="m-0 mb-2 text-center text-[.95rem] text-ink-soft">
+        Married{' '}
+        {spouses.map((spouse, i) => (
+          <>
+            {i > 0 && ', '}
+            {spouse.chartUrl ? <a class="text-accent underline hover:no-underline" href={spouse.chartUrl}>{spouse.name}</a> : spouse.name}
+          </>
+        ))}
+      </p>
+    )
+  }
+  <p class="m-0 mb-8 text-center text-[.8rem] italic text-ink-faint">
+    Click a box to read the biographies and sources. Use the arrow beneath a box to
+    follow that couple further back.
+  </p>
+
+  {
+    (keyEntries.length > 0 || Object.values(chart.showsUnverified).some(Boolean)) && (
+      <div class="mx-auto mb-[34px] flex max-w-[760px] flex-wrap justify-center gap-x-4 gap-y-1.5 rounded-lg border border-line-warm bg-[#fbf8f2] px-3.5 py-2.5">
+        {keyEntries.map((tag) => (
+          <span class="whitespace-nowrap text-[.74rem] text-ink-soft">
+            <span class="tag-dot ml-0 mr-1" data-shape={tag.shape} style={`--tag:${tag.color}`} />
+            {tag.label}
+          </span>
+        ))}
+        {chart.showsUnverified.facts && (
+          <span class="whitespace-nowrap text-[.74rem] text-ink-soft">
+            <span class="unverified-fact mr-1">1885</span>
+            Date not verified against a record
+          </span>
+        )}
+        {chart.showsUnverified.prose && (
+          <span class="whitespace-nowrap text-[.74rem] text-ink-soft">
+            <span class="unverified-prose mr-1">a claim</span>
+            Statement not verified against a record
+          </span>
+        )}
+        {chart.showsUnverified.people && (
+          <span class="whitespace-nowrap text-[.74rem] text-ink-soft">
+            <span class="mr-1 text-[.68rem] uppercase tracking-[1px]">unverified</span>
+            Person known only from an unevidenced family tree
+          </span>
+        )}
+      </div>
+    )
+  }
+
+  <Chart chart={chart} client:idle />
+</Layout>

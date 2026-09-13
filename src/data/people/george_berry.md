@@ -1,0 +1,21 @@
+---
+given: George
+surname: Berry
+sex: M
+notes:
+  - "Stepfather of Jane Carrier from some point after 1866. Not her father, and not an ancestor of Lorene Lewis."
+---
+
+## Biography
+
+George Berry had married Mary Carrier by 1870, and that year his house held not
+only his wife but her grown daughter Jane, newly on her own after her husband
+disappeared into the war. He was Jane's stepfather — not a blood relation, not an
+ancestor of this line — but for a time his roof was where a broken family gathered
+itself back together.
+
+## Research Notes
+
+George Berry had married Mary Carrier by the time of the 1870 census, in which
+her widowed daughter Jane is living in their household.[^census_1870_carrier_berry]
+He was Jane's stepfather; no father is recorded for her.

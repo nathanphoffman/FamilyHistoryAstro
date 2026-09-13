@@ -1,0 +1,47 @@
+{
+  "military": {
+    "label": "Military service",
+    "color": "#3764be",
+    "shape": "diamond"
+  },
+  "left_family": {
+    "label": "Left or vanished from the family",
+    "color": "#ae3429",
+    "shape": "square"
+  },
+  "unresolved_parentage": {
+    "label": "Parentage unresolved",
+    "color": "#d5911a",
+    "shape": "circle"
+  },
+  "illegitimacy": {
+    "label": "Illegitimacy in the record",
+    "color": "#9d54b6",
+    "shape": "circle"
+  },
+  "hardship": {
+    "label": "Poverty on record",
+    "color": "#506d3b",
+    "shape": "diamond"
+  },
+  "migration": {
+    "label": "Moved Virginia to Pennsylvania",
+    "color": "#358d5a",
+    "shape": "square"
+  },
+  "ancestry_question": {
+    "label": "Open ancestry question",
+    "color": "#a6307f",
+    "shape": "diamond"
+  },
+  "occupation": {
+    "label": "Occupation recorded",
+    "color": "#206f6f",
+    "shape": "circle"
+  },
+  "life_detail": {
+    "label": "Life detail",
+    "color": "#625095",
+    "shape": "square"
+  }
+}

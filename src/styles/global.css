@@ -1,0 +1,385 @@
+/*
+ * Tailwind v4, imported by layer so its Preflight reset is left out. Everything
+ * the markup's utility classes cannot state lives here, in `base` / `components`
+ * so ordinary utilities still win over it:
+ *   - the project's own reset and `body`
+ *   - the `.couple` card's base look and its `[data-confidence]` / `.placeholder`
+ *     / `.unverified` state selectors
+ *   - the `.expand` button's `aria-expanded` open/closed toggle
+ *   - the tidbit markers, whose shape comes from a `data-shape` attribute
+ *   - the biography prose, injected via dangerouslySetInnerHTML and unreachable
+ *     by utilities
+ *   - a few descendant / adjacency rules, and the responsive `--box-*` flips
+ *
+ * Rules that must beat a utility on the same element (source-reliability and
+ * candidate-status palettes, the dense-row overrides, `h2 + .facts`, stacked
+ * flags) are written as variant utilities in the markup instead.
+ */
+@layer theme, base, components, utilities;
+@import 'tailwindcss/theme.css' layer(theme);
+@import 'tailwindcss/utilities.css' layer(utilities);
+
+@theme {
+  --font-serif: Georgia, 'Times New Roman', serif;
+
+  --color-paper: #f6f3ec;
+  --color-card: #ffffff;
+  --color-card-hover: #fdf8ef;
+  --color-ink: #2b2118;
+  --color-ink-soft: #5c5147;
+  --color-ink-faint: #8b8177;
+  --color-rule: #6b4f3b;
+  --color-accent: #7a3b2e;
+  --color-unverified: #9a6a12;
+
+  /* Recurring warm-grey surfaces and hairlines. */
+  --color-note: #f4ede0;
+  --color-line: #e6ded1;
+  --color-line-warm: #e2d8c8;
+  --color-line-dim: #e0d7c8;
+}
+
+:root {
+  --shadow: rgba(0, 0, 0, 0.15);
+  --box-width: 200px;
+}
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    padding: 40px 20px 80px;
+    font-family: var(--font-serif);
+    line-height: 1.55;
+    background: var(--color-paper);
+    color: var(--color-ink);
+  }
+
+  @media (max-width: 700px) {
+    body {
+      padding: 24px 12px 60px;
+    }
+  }
+}
+
+@layer components {
+  /* ---- chart card: base look + the state selectors that drive it ---- */
+
+  .couple {
+    flex: 0 0 var(--box-width);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    border: 2px solid var(--color-rule);
+    border-radius: 10px;
+    background: var(--color-card);
+    box-shadow: 2px 2px 6px var(--shadow);
+    color: inherit;
+    transition: background 0.15s;
+  }
+
+  .couple:hover {
+    background: var(--color-card-hover);
+  }
+
+  .couple:focus-within {
+    box-shadow: 0 0 0 3px rgba(122, 59, 46, 0.35);
+  }
+
+  /* Anything not firmly documented reads as provisional at a glance. */
+  .couple[data-confidence='probable'] {
+    border-style: dashed;
+  }
+
+  .couple[data-confidence='unconfirmed'] {
+    border-style: dashed;
+    border-color: var(--color-ink-faint);
+    background: #faf7f1;
+  }
+
+  /* Structural fillers: they hold the pedigree's shape but have nothing behind them. */
+  .couple.placeholder {
+    border-style: dotted;
+    border-color: #cfc5b6;
+    background: transparent;
+    box-shadow: none;
+    opacity: 0.75;
+  }
+
+  .couple.placeholder:hover {
+    background: transparent;
+  }
+
+  /* A whole person who is in the tree only because an unevidenced tree says so. */
+  .couple.unverified {
+    border-style: dashed;
+    border-color: var(--color-unverified);
+    background: #fdfaf3;
+  }
+
+  @media (max-width: 700px) {
+    .couple {
+      padding: 10px 12px;
+      font-size: 0.92rem;
+    }
+  }
+
+  /* ---- generation row: carries the dynamic --box-width / --box-gap ---- */
+
+  .generation {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: stretch;
+    gap: var(--box-gap, 20px);
+    min-width: min-content;
+  }
+
+  @media (max-width: 700px) {
+    .generation {
+      --box-width: 158px !important;
+      --box-gap: 12px !important;
+    }
+  }
+
+  /* ---- expand / collapse buttons ----
+     Full rules rather than utilities: a <button> needs `font: inherit` to pick
+     up the page's serif, and ordering that reset before an explicit font-size
+     is exactly what utility classes can't guarantee. */
+
+  .expand {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    width: 100%;
+    padding: 4px 0 5px;
+    border: none;
+    border-top: 1px solid var(--color-line-warm);
+    background: #f3ece0;
+    font: inherit;
+    font-size: 0.68rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--color-accent);
+    cursor: pointer;
+  }
+
+  .expand:hover {
+    background: #ece2d2;
+  }
+
+  .panel-collapse {
+    padding: 3px 14px;
+    border: 1px solid #d8cdbb;
+    border-radius: 20px;
+    background: none;
+    font: inherit;
+    font-size: 0.72rem;
+    letter-spacing: 0.5px;
+    color: var(--color-ink-soft);
+    cursor: pointer;
+  }
+
+  .panel-collapse:hover {
+    background: #f0e9dd;
+  }
+
+  .expand .chev {
+    transition: transform 0.15s;
+  }
+
+  .expand[aria-expanded='true'] .chev {
+    transform: rotate(180deg);
+  }
+
+  .expand .when-open,
+  .expand[aria-expanded='true'] .when-closed {
+    display: none;
+  }
+
+  .expand[aria-expanded='true'] .when-open {
+    display: inline;
+  }
+
+  /* ---- tidbit markers: shape comes from the data-shape attribute ---- */
+
+  .tag-dot {
+    display: inline-block;
+    width: 9px;
+    height: 9px;
+    margin-left: 4px;
+    border-radius: 2px;
+    background: var(--tag, #999);
+    box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.2);
+    vertical-align: 0.02em;
+  }
+
+  .tag-dot[data-shape='circle'] {
+    border-radius: 50%;
+  }
+
+  /* Rotation does not affect layout, so the diamond is shrunk to keep its
+     diagonal from crowding the marker beside it. */
+  .tag-dot[data-shape='diamond'] {
+    width: 7px;
+    height: 7px;
+    margin-left: 5px;
+    margin-right: 1px;
+    border-radius: 1px;
+    transform: rotate(45deg);
+  }
+
+  .tag-more {
+    margin-left: 4px;
+    font-size: 0.62rem;
+    font-weight: normal;
+    color: var(--color-ink-faint);
+    vertical-align: 0.15em;
+  }
+
+  /* ---- biography prose: injected via dangerouslySetInnerHTML, unreachable by utilities ---- */
+
+  .bio {
+    font-size: 0.95rem;
+  }
+
+  .bio p {
+    margin: 0 0 0.9em;
+  }
+
+  sup.cite a {
+    padding: 0 1px;
+    font-size: 0.7em;
+    color: var(--color-accent);
+    text-decoration: none;
+  }
+
+  sup.cite a:hover {
+    text-decoration: underline;
+  }
+
+  /* Both rules also land on any <h2> the biography prose carries ("Biography",
+     "Research Notes"), which the name heading's utility classes can't reach. */
+  .bio-panel h2 {
+    margin: 0;
+    font-size: 1.25rem;
+  }
+
+  .bio-panel.is-unverified h2 {
+    color: var(--color-unverified);
+  }
+
+  /* ---- unverified data ----
+   *
+   * Trust is its own visual channel, kept clear of the tidbit markers (which say
+   * what is interesting about a person, not how well attested it is) and of the
+   * confidence border (which describes a parent link, not the facts inside).
+   *
+   * The dotted underline carries the signal; the colour only reinforces it, so
+   * the marking survives greyscale printing and a colourblind reader.
+   */
+
+  .unverified-fact {
+    color: var(--color-unverified);
+    border-bottom: 1px dotted var(--color-unverified);
+    cursor: help;
+  }
+
+  /* A sentence of biography resting only on an unevidenced tree. Quieter than
+     the date marking — grey rather than ochre, and no cursor change — because it
+     runs under whole sentences and has to stay readable underneath. */
+  .unverified-prose {
+    border-bottom: 1px dotted #b6aa99;
+  }
+
+  /* ---- source-reliability and candidate-status badges ----
+     Attribute-driven palettes, kept as CSS the way the [data-confidence] and
+     [data-shape] rules are. */
+
+  .reliability {
+    padding: 1px 5px;
+    border-radius: 3px;
+    font-size: 0.68rem;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    background: #e8e0d2;
+    color: var(--color-ink-soft);
+  }
+
+  .reliability[data-r='published'] {
+    background: #dfe3ea;
+    color: #3f4a5c;
+  }
+
+  .reliability[data-r='reported'] {
+    background: #e6e9e0;
+    color: #4b5340;
+  }
+
+  .reliability[data-r='family_notes'] {
+    background: #efe1c6;
+    color: var(--color-unverified);
+  }
+
+  .reliability[data-r='unsourced'] {
+    background: #f6e3c8;
+    color: var(--color-unverified);
+  }
+
+  .cand-status {
+    margin-right: 5px;
+    padding: 1px 5px;
+    border-radius: 3px;
+    font-size: 0.62rem;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    background: var(--color-line-warm);
+    color: var(--color-ink-soft);
+  }
+
+  .cand-status[data-s='weakened'] {
+    background: #f0e0d4;
+    color: #8a5a2b;
+  }
+
+  .cand-status[data-s='eliminated'] {
+    background: #e6e3de;
+    color: #7a7a7a;
+    text-decoration: line-through;
+  }
+
+  .cand-status[data-s='probable'] {
+    background: #dfe7dc;
+    color: #3f5c42;
+  }
+
+  /* ---- descendant / adjacency rules utilities on the markup can't state ---- */
+
+  .facts div {
+    margin-bottom: 2px;
+  }
+
+  .facts .label {
+    color: var(--color-ink-faint);
+  }
+
+  /* The second biography panel on a pair page gets the divider. */
+  .bio-panel + .bio-panel {
+    border-left: 1px solid var(--color-line);
+    padding-left: 24px;
+  }
+
+  @media (max-width: 700px) {
+    .bio-panel + .bio-panel {
+      border-left: none;
+      border-top: 1px solid var(--color-line);
+      margin-top: 20px;
+      padding-left: 0;
+      padding-top: 20px;
+    }
+  }
+}

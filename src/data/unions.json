@@ -1,0 +1,201 @@
+[
+  {
+    "id": "u_lewis_stovall_1905",
+    "spouses": [
+      "james_hiram_lewis",
+      "alice_louise_stovall"
+    ],
+    "type": "marriage",
+    "date": "1905-10-18",
+    "place": "Washington Co., VA",
+    "children": [
+      "lorene_lewis"
+    ],
+    "citations": [
+      "wash_co_va_marriage_1905",
+      "va_vital_index_1905"
+    ],
+    "note": "The bride's parents column names only \"Maggie\" — no father. The groom's gives \"G Wm\" and \"Harriott\". He is recorded aged 20 and a labourer, she aged 19."
+  },
+  {
+    "id": "u_lewis_sams",
+    "spouses": [
+      "george_w_lewis",
+      "harriet_eliza_sams"
+    ],
+    "type": "marriage",
+    "date": "1882",
+    "place": "Washington Co., VA",
+    "children": [
+      "james_hiram_lewis"
+    ],
+    "citations": [
+      "wash_co_va_marriage_1882"
+    ],
+    "note": "The county register dates the marriage to the spring of 1882."
+  },
+  {
+    "id": "u_lewis_rouse_1852",
+    "spouses": [
+      "philip_lewis",
+      "margaret_rouse"
+    ],
+    "type": "marriage",
+    "date": "1852-03-11",
+    "place": "Ashe Co., NC",
+    "children": [
+      "george_w_lewis"
+    ],
+    "citations": [
+      "ashe_co_nc_marriage_1852"
+    ]
+  },
+  {
+    "id": "u_sams_carrier",
+    "spouses": [
+      "hiram_sams",
+      "jane_carrier"
+    ],
+    "type": "marriage",
+    "children": [
+      "harriet_eliza_sams"
+    ],
+    "citations": [
+      "sams_death_cert_1913"
+    ]
+  },
+  {
+    "id": "u_stovall_lester_1863",
+    "spouses": [
+      "john_quincy_alexander_stovall",
+      "mary_e_lester"
+    ],
+    "type": "marriage",
+    "date": "1863-09-24",
+    "place": "Washington Co., VA",
+    "children": [
+      "maggie_stovall"
+    ],
+    "citations": [
+      "wash_co_va_marriage_1863"
+    ]
+  },
+  {
+    "id": "u_roark_stovall_1894",
+    "spouses": [
+      "william_marshall_roark",
+      "maggie_stovall"
+    ],
+    "type": "marriage",
+    "date": "1894-08-16",
+    "place": "Washington Co., VA",
+    "children": [],
+    "citations": [
+      "wash_co_va_marriage_1894"
+    ],
+    "note": "Maggie married Roark eight years after Alice was born, so this marriage does not account for Alice's paternity."
+  },
+  {
+    "id": "u_kidd_rouse_1871",
+    "spouses": [
+      "noah_kidd",
+      "margaret_rouse"
+    ],
+    "type": "marriage",
+    "date": "1871",
+    "children": [],
+    "citations": [
+      "marriage_1871_kidd_rouse"
+    ],
+    "note": "Margaret remarried within a few years of Philip Lewis's death, leaving her a widow with children."
+  },
+  {
+    "id": "u_berry_carrier",
+    "spouses": [
+      "george_berry",
+      "mary_carrier"
+    ],
+    "type": "marriage",
+    "date": "after 1866",
+    "children": [],
+    "citations": [
+      "census_1870_carrier_berry"
+    ],
+    "note": "George Berry was stepfather to Jane Carrier, not her father."
+  },
+  {
+    "id": "u_wallick_lewis",
+    "spouses": [
+      "urie_john_wallick",
+      "lorene_lewis"
+    ],
+    "type": "marriage",
+    "children": [
+      "colleen_wallick",
+      "barbara_wallick",
+      "urie_jim_wallick"
+    ],
+    "citations": [],
+    "note": "No marriage record has been located, so neither the date nor the place is established."
+  },
+  {
+    "id": "u_wallick_may_1901",
+    "spouses": [
+      "john_ralph_wallick",
+      "myrtle_edith_may"
+    ],
+    "type": "marriage",
+    "date": "1901-04-16",
+    "place": "York, PA",
+    "children": [
+      "hanna_e_wallick",
+      "melvin_l_wallick",
+      "kenneth_may_wallick",
+      "urie_john_wallick",
+      "richard_ralph_wallick"
+    ],
+    "citations": [
+      "wallick_may_marriage_1901"
+    ]
+  },
+  {
+    "id": "u_wallick_mundis",
+    "spouses": [
+      "uriah_stair_wallick",
+      "sarah_ann_mundis"
+    ],
+    "type": "marriage",
+    "children": [
+      "john_ralph_wallick"
+    ],
+    "citations": []
+  },
+  {
+    "id": "u_may_stein",
+    "spouses": [
+      "henry_aloysius_may",
+      "mary_elizabeth_stein"
+    ],
+    "type": "marriage",
+    "children": [
+      "myrtle_edith_may"
+    ],
+    "citations": []
+  },
+  {
+    "id": "u_roe_ipock_1794",
+    "spouses": [
+      "john_roe_1768",
+      "nancy_ipock"
+    ],
+    "type": "marriage",
+    "date": "1794-02-27",
+    "children": [
+      "margaret_peggy_rowe"
+    ],
+    "citations": [
+      "ancestry_tree_35916700"
+    ],
+    "note": "Date from the family's Ancestry tree, which attaches no record. Nancy's approximate birth of 1781 would make her thirteen."
+  }
+]

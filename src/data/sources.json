@@ -1,0 +1,366 @@
+{
+  "prior_ai_research": {
+    "title": "Earlier AI research pass over original records",
+    "reliability": "reported",
+    "note": "Compiled by an AI assistant working from census, vital and newspaper records, including record images. The underlying documents were real and were examined; what was not kept was which document backed which fact. Treated as reasonably reliable, and deliberately not marked unverified."
+  },
+  "wash_co_va_marriage_1905": {
+    "title": "Marriage register, James Hiram Lewis & Alice Louise Stovall, 1905",
+    "repository": "Washington Co., Virginia",
+    "date": "1905",
+    "reliability": "primary",
+    "note": "The parents' columns are blank for Alice. James's parents are given only as \"G Wm\" and \"Harriott\"."
+  },
+  "sams_death_cert_1913": {
+    "title": "Death certificate, Harriet Eliza Sams, 1913",
+    "repository": "Washington Co., Virginia",
+    "date": "1913-01-04",
+    "reliability": "primary",
+    "note": "Image read here. Washington Co., Holston district; registration district 953, file no. 15-2409. Mrs. Harriet Eliza Lewis, white, married, housewife; born 4 August 1856 in Sullivan County, Tennessee; died 4 January 1913 aged 56 years 5 months 0 days. Father Hiram Samms, mother Jane Carrol, both birthplaces \"Not Known\". Cause tuberculosis of the trachea, duration unknown; attended 2 October to 19 December 1912. Informant Geo Lewis of Glade Spring, her husband. Buried Friendship Cemetery, 5 January 1913. Filed 7 January 1913.",
+    "image": "/img/sams_death_cert_1913.jpg",
+    "url": "https://www.familysearch.org/ark:/61903/3:1:3QS7-L9G2-LT25?view=index"
+  },
+  "ashe_co_nc_marriage_1852": {
+    "title": "Marriage record, Philip Lewis & Margaret Rouse, 11 Mar 1852",
+    "repository": "Ashe Co., North Carolina",
+    "date": "1852-03-11",
+    "reliability": "primary"
+  },
+  "wash_co_va_marriage_1863": {
+    "title": "Marriage record, John Quincy Alexander Stovall & Mary E. Lester, 24 Sep 1863",
+    "repository": "Washington Co., Virginia",
+    "date": "1863-09-24",
+    "reliability": "primary"
+  },
+  "wash_co_va_marriage_1894": {
+    "title": "Marriage record, Maggie Stovall & William Marshall Roark, 16 Aug 1894",
+    "repository": "Washington Co., Virginia",
+    "date": "1894-08-16",
+    "reliability": "primary"
+  },
+  "wash_co_va_bastardy": {
+    "title": "Bastardy investigation, Washington Co., Virginia",
+    "repository": "Washington Co., Virginia",
+    "reliability": "primary",
+    "note": "Open question. Cited as the avenue for identifying Alice Louise Stovall's father."
+  },
+  "csa_63rd_tn_service": {
+    "title": "Compiled service record, Pvt. Hiram Sams, Co. F, 63rd Tennessee Infantry, CSA",
+    "repository": "Confederate service records",
+    "reliability": "primary",
+    "note": "Enrolled 14 May 1862 at Zollicoffer. Absent without leave from 1 June 1863; formally declared a deserter 1 April 1864. No record of him survives after that date."
+  },
+  "stewartstown_cemetery": {
+    "title": "Burial, Stewartstown Cemetery, York Co., Pennsylvania",
+    "repository": "Stewartstown Cemetery, York Co., PA",
+    "reliability": "derivative"
+  },
+  "fs_tree_gf3k_p43": {
+    "title": "FamilySearch Family Tree profile GF3K-P43",
+    "repository": "FamilySearch",
+    "url": "https://ancestors.familysearch.org/en/GF3K-P43",
+    "reliability": "unsourced",
+    "note": "User-submitted tree carrying no attached evidence. Recorded here only to show what the claim rests on."
+  },
+  "census_1850_sullivan_tn": {
+    "title": "1850 U.S. census, Sullivan Co., Tennessee — Obediah Sams household",
+    "repository": "U.S. Federal Census",
+    "date": "1850",
+    "reliability": "primary"
+  },
+  "sams_deeds_1807_1856": {
+    "title": "Land deeds of Obediah Sams, 1807–1856",
+    "repository": "Sullivan Co., Tennessee",
+    "reliability": "primary",
+    "note": "Fifty years of deed activity establishing Obediah's presence and approximate dates."
+  },
+  "indigent_relief_1862_1864": {
+    "title": "County indigent relief records, 1862–1864 — Sams family",
+    "reliability": "primary",
+    "note": "Relief paid to the family across the period of Hiram's absence, indicating loss of the household's earner."
+  },
+  "census_1870_carrier_berry": {
+    "title": "1870 U.S. census — Mary Carrier and George Berry household",
+    "repository": "U.S. Federal Census",
+    "date": "1870",
+    "reliability": "primary",
+    "note": "Jane Carrier recorded as widowed and living with her mother and stepfather. Her daughters Harriet and Mary are not in the household."
+  },
+  "marriage_1871_kidd_rouse": {
+    "title": "Marriage, Noah Kidd & Margaret (Rouse) Lewis, 1871",
+    "reliability": "primary"
+  },
+  "census_1870_smith": {
+    "title": "1870 U.S. census, Glade Spring District — Andrew and Sallie Smith household",
+    "repository": "U.S. Federal Census",
+    "date": "1870",
+    "reliability": "primary",
+    "note": "Andrew Smith recorded as Black, Sallie Smith as Mulatto, with son William born c.1863–65."
+  },
+  "census_1880_smith": {
+    "title": "1880 U.S. census, Glade Spring District — William Smith, age 16",
+    "repository": "U.S. Federal Census",
+    "date": "1880",
+    "reliability": "primary"
+  },
+  "census_1900_smith": {
+    "title": "1900 U.S. census, Glade Spring District — William Smith household",
+    "repository": "U.S. Federal Census",
+    "date": "1900",
+    "reliability": "primary",
+    "note": "Age 37, race recorded Black, occupation labourer; wife Virgie, son Richard (b. 1889) and niece Irene Dickison in the household."
+  },
+  "marriage_1886_smith_hall": {
+    "title": "Marriage, William Smith & Jennie Hall, 1886",
+    "repository": "Washington Co., Virginia",
+    "date": "1886",
+    "reliability": "primary",
+    "note": "Names the groom as son of Andrew and Sallie Smith, but the manuscript records both parties as white. It therefore cannot refer to the Will Smith of the 1870 census, and no longer supports that identification."
+  },
+  "stovall_death_cert_1965": {
+    "title": "Death certificate, Alice Louise Stovall, 1965",
+    "repository": "York, Pennsylvania",
+    "date": "1965-08-02",
+    "reliability": "primary",
+    "note": "Gives no clear father. The informant appears to have named her grandfather in error."
+  },
+  "ss5_numident_alice": {
+    "title": "SS-5 / NUMIDENT applications of two children of Alice Louise Stovall",
+    "repository": "U.S. Social Security Administration",
+    "reliability": "primary",
+    "note": "Both give their mother's maiden name as Smith rather than Stovall."
+  },
+  "jqa_stovall_absence": {
+    "title": "Census and marriage records documenting J. Q. A. Stovall's departure and remarriages",
+    "reliability": "derivative",
+    "note": "Place him away from the area from c.1878–80 onward, more than six years before Alice's birth."
+  },
+  "cherokee_roll_searches": {
+    "title": "Cherokee enrolment records searched — Guion Miller Index, Dawes Rolls, Baker Roll, and the 1835, 1851 and 1884 rolls",
+    "reliability": "primary",
+    "note": "Negative result. Checked against every surname in the tree — Sams, Salmons, Carrier, Roark, Stovall — with no matches. Candidates raised and eliminated as unrelated: Harriet B. Boon, the Dawes Harriet Lewises, and Harriett Booher Carr."
+  },
+  "guion_miller_417": {
+    "title": "Guion Miller, Special Report 417 (1909)",
+    "repository": "U.S. Court of Claims",
+    "reliability": "primary",
+    "note": "Rejected the 1906 Cherokee claim brought by the Ashe Co. 'Sizemore' cluster for want of documented ancestry."
+  },
+  "slave_schedule_searches": {
+    "title": "1850 and 1860 slave schedules searched against the documented ancestral surnames",
+    "reliability": "primary",
+    "note": "Negative result across eight ancestors — Stovall, Lester, Robinson, Rouse, Lewis and Sams lines. No holdings recorded."
+  },
+  "racial_integrity_act_1924": {
+    "title": "Virginia Racial Integrity Act (1924) and its preceding statutes",
+    "repository": "Commonwealth of Virginia",
+    "date": "1924",
+    "reliability": "primary",
+    "note": "Attached severe legal consequence to any traceable African ancestry while exempting Indigenous ancestry up to one-sixteenth — the so-called Pocahontas exception."
+  },
+  "estes_2012": {
+    "title": "Estes et al., 'Melungeons, A Multi-Ethnic Population' (2012)",
+    "reliability": "published",
+    "note": "Describes the documented pattern of families substituting Cherokee narratives for acknowledged African paternity under such statutes."
+  },
+  "galka_dna_report": {
+    "title": "Family report of a consumer DNA result indicating more than trace Native American ancestry",
+    "reliability": "unsourced",
+    "note": "Reported within the family; no test document has been reviewed, and no testing company, date or percentage is recorded."
+  },
+  "wallick_may_marriage_1901": {
+    "title": "Marriage, John Ralph Wallick & Myrtle Edith May, 16 April 1901",
+    "repository": "York, Pennsylvania",
+    "date": "1901-04-16",
+    "reliability": "primary"
+  },
+  "mount_rose_cemetery": {
+    "title": "Burial, Mount Rose Cemetery, York, Pennsylvania",
+    "repository": "Mount Rose Cemetery, York, PA",
+    "reliability": "derivative"
+  },
+  "wallick_enlistment_1943": {
+    "title": "Enlistment record, Urie John Wallick, 31 December 1943",
+    "repository": "Harrisburg, Pennsylvania",
+    "date": "1943-12-31",
+    "reliability": "primary"
+  },
+  "census_1900_may": {
+    "title": "1900 U.S. census — Henry Aloysius May household",
+    "repository": "U.S. Federal Census",
+    "date": "1900",
+    "reliability": "primary",
+    "note": "Records Henry's father as born in Germany."
+  },
+  "wallick_line_census_survey": {
+    "title": "Census entries across the Wallick and May lines",
+    "repository": "U.S. Federal Census",
+    "reliability": "primary",
+    "note": "Every entry for Urie John Wallick, his parents and all four grandparents is marked White, with Pennsylvania birthplaces throughout — the sole exception being Henry Aloysius May's father, born in Germany."
+  },
+  "ancestry_tree_35916700": {
+    "title": "Hoffman Family Tree (Ancestry tree 35916700)",
+    "repository": "Ancestry.com",
+    "reliability": "unsourced",
+    "note": "The family's own Ancestry tree, imported 4 September 2026. Parts of it were typed in years ago or copied from other user-submitted trees, and the claims cited to it here carry no attached record. Everything resting on it alone is marked unverified on the page."
+  },
+  "lewis_obit_1955": {
+    "title": "Obituary, James H. Lewis, York Daily Record, 18 Jul 1955, p. 26",
+    "repository": "Newspapers.com",
+    "date": "1955-07-18",
+    "reliability": "reported",
+    "note": "Read and quoted by an AI research pass; the image has not been re-examined here. Gives his address as 540 West King Street, death at 6 p.m. Saturday at York Hospital, retirement from the York Naval Ordnance plant, nine surviving children and four siblings. Its stated age of 70 does not agree with a birth of 12 December 1885."
+  },
+  "lewis_obit_1944_death": {
+    "title": "\"George W. Lewis, Stewartstown, Dies,\" York Daily Record, 8 Jan 1944, p. 10",
+    "repository": "Newspapers.com",
+    "date": "1944-01-08",
+    "reliability": "primary",
+    "note": "Image read here. \"George W. Lewis died yesterday at 2:30 p. m. at the home of his son-in-law and daughter, Mr. and Mrs. Baldwin Barbra, this place. Death was caused by complication of diseases. He was 83 years of age.\" Surviving: three sons — James H. (Maryland Line), Walter A. (Knoxville, Tenn.) and Frank T. (Pylesville, Md.); three daughters — Mrs. James Wyingear and Mrs. Eli Freedman, both of Fawn Grove R. D., and Mrs. Baldwin Barbra, with whom he lived. \"Yesterday\" fixes the death at 7 January 1944.",
+    "image": "/img/lewis_obit_1944_death.jpg"
+  },
+  "lewis_obit_1944_burial": {
+    "title": "\"George W. Lewis, Stewartstown, Buried,\" York Daily Record, 11 Jan 1944, p. 8",
+    "repository": "Newspapers.com",
+    "date": "1944-01-11",
+    "reliability": "primary",
+    "note": "Image read here. Services held at the W. Howard Webb Funeral home, Fawn Grove; Rev. A. E. Ackerman, pastor of Fawn Grove Methodist church, officiating; interment Fawn Grove cemetery. Pallbearers: Harry Hovis, Lewis Walker, William Barbra, George Barbra, Robert Wynigear and Donald Lewis. Flowerbearers: Ruth Freeman, Emma Freeman, Mabel Freeman, Mrs. Lewis Walker, Cathrine Kunkle and Gladys Wynigear. Gives the death as \"Friday\", which was 7 January 1944.",
+    "image": "/img/lewis_obit_1944_burial.jpg"
+  },
+  "ssdi_lorene_wallick": {
+    "title": "Social Security Death Index — Lorene E. Wallick",
+    "repository": "U.S. Social Security Administration",
+    "reliability": "reported",
+    "note": "Cited in the family's Ancestry tree for a birth of 20 March 1911 and a death in May 1994 at York, Pennsylvania. The index entry itself has not been re-examined here."
+  },
+  "findagrave_lorene": {
+    "title": "Find A Grave index — Lorene E. Lewis Wallick, Stewartstown, York Co., PA",
+    "repository": "Find A Grave",
+    "reliability": "reported",
+    "note": "Cited in the family's Ancestry tree. The memorial itself has not been re-examined here."
+  },
+  "census_1920_glade_spring": {
+    "title": "1920 U.S. census, Glade Spring, Washington Co., Virginia — James H. Lewis household",
+    "repository": "U.S. Federal Census",
+    "date": "1920",
+    "reliability": "reported",
+    "note": "Cited in the family's Ancestry tree; records Lorene aged 9. Not re-examined here."
+  },
+  "census_1930_york": {
+    "title": "1930 U.S. census, York, Pennsylvania — Lorene E. Lewis, lodger",
+    "repository": "U.S. Federal Census",
+    "date": "1930",
+    "reliability": "reported",
+    "note": "Cited in the family's Ancestry tree. Not re-examined here."
+  },
+  "census_1940_new_salem": {
+    "title": "1940 U.S. census, New Salem, York Co., Pennsylvania — Wallick household",
+    "repository": "U.S. Federal Census",
+    "date": "1940",
+    "reliability": "reported",
+    "note": "Cited in the family's Ancestry tree, with Lorene recorded as wife. Not re-examined here. The tree's separate \"1935 census\" citation is an error: the 1940 schedule's residence-on-1-April-1935 column is not a census of its own."
+  },
+  "census_1900_holston": {
+    "title": "1900 U.S. census, Holston District, Washington Co., Virginia — Lewis household",
+    "repository": "U.S. Federal Census",
+    "date": "1900",
+    "reliability": "reported",
+    "note": "Cited in the family's Ancestry tree for both George W. Lewis and his son James. Not re-examined here."
+  },
+  "census_1910_stony_creek": {
+    "title": "1910 U.S. census, Stony Creek, Sussex Co., Virginia — James Hiram Lewis",
+    "repository": "U.S. Federal Census",
+    "date": "1910",
+    "reliability": "reported",
+    "note": "Cited in the family's Ancestry tree. Not re-examined here, and doubtful: Stony Creek is some 250 miles east of every other fact recorded for this family. Quite possibly a different James Lewis."
+  },
+  "wwi_draft_james_lewis": {
+    "title": "WWI draft registration card, James Hiram Lewis, 1917–1918",
+    "repository": "U.S. Selective Service System",
+    "reliability": "reported",
+    "note": "Cited in the family's Ancestry tree. Not re-examined here."
+  },
+  "census_1880_sullivan_harriet": {
+    "title": "1880 U.S. census, Sullivan Co., Tennessee — Harriet E. Sams, niece in household",
+    "repository": "U.S. Federal Census",
+    "date": "1880",
+    "reliability": "reported",
+    "note": "Cited in the family's Ancestry tree. Not re-examined here. Fits the 1870 census, which shows her mother Jane widowed with her daughters living elsewhere."
+  },
+  "census_1910_glade_spring_maggie": {
+    "title": "1910 U.S. census, Glade Spring, Washington Co., Virginia — Maggie, servant",
+    "repository": "U.S. Federal Census",
+    "date": "1910",
+    "reliability": "reported",
+    "note": "Cited in the family's Ancestry tree, recording her as single and working as a servant sixteen years after her 1894 marriage. Not re-examined here."
+  },
+  "census_1950_york": {
+    "title": "1950 U.S. census, York, York Co., Pennsylvania — Urie J. Wallick household",
+    "repository": "U.S. Federal Census / National Archives",
+    "date": "1950-04",
+    "image": "/img/census_1950_york.jpg",
+    "url": "https://www.familysearch.org/ark:/61903/3:1:3QHK-SQHW-F9PZ-R?view=index",
+    "reliability": "primary",
+    "note": "Image read here. House 603: Wallick, Urie J., head, white, male, 37, married, born Pennsylvania, working 40 hours, occupation electrotyping, industry printing company; Lorene E., wife, 39, married, born Virginia, keeping house; Colleen A., daughter, 14; Barbara E., daughter, 12; James, son, 2 — all three born Pennsylvania. Enumeration district 81-33."
+  },
+  "va_vital_index_1905": {
+    "title": "Virginia, Vital Records, 1853–1934 — index entry for the 1905 Lewis/Stovall marriage",
+    "repository": "Library of Virginia, via FamilySearch",
+    "date": "1905-10-18",
+    "reliability": "reported",
+    "note": "Index transcription read by an AI research pass; the register image has not been seen here. Jas H Lewis, age 20, laborer, married Alice L Stovall, age 19, on 18 October 1905 in Washington County. Groom's parents given as G Wm and Harriott; bride's parents column reads \"Maggie\" and nothing more. H B Miller named as officiant or bondsman. The image is Library of Virginia property and can only be viewed at a FamilySearch centre or affiliate library — film 10784524, image 398 of 539."
+  },
+  "wash_co_va_marriage_1882": {
+    "title": "Marriage register, George W. Lewis & Harriet Eliza Sams, 1882",
+    "repository": "Washington Co., Virginia",
+    "date": "1882",
+    "reliability": "primary",
+    "note": "Register entry viewed. Dates the marriage to the spring of 1882. Corroborated by the family's Bible notes."
+  },
+  "delayed_birth_bettie_lewis_1949": {
+    "title": "Delayed Certificate of Birth, Bettie Jane Lewis, filed 1949",
+    "repository": "Smyth Co., Virginia",
+    "date": "1949",
+    "reliability": "primary",
+    "note": "Image read here. Line 11, \"Mother of Child, full maiden name,\" reads \"Harriett Booher.\" A sworn, notarized statement by Mrs. Flora Mae Greever, who cites a family Bible \"printed in the year 1872\" examined directly by notary David A. Rouse. Mother's race recorded white."
+  },
+  "bible_notes_lewis": {
+    "title": "Handwritten notes on an old Lewis family Bible",
+    "reliability": "family_notes",
+    "note": "Loose pages photographed here, of unknown authorship and date, mixing transcription of a Bible said to date to 1872 with later family recollection. Some entries are second- or third-hand. Separate notes found among the papers of Colleen Hoffman (Lorene Lewis's daughter) indicate that George W. Lewis himself wrote several of the entries in the underlying Bible; which of the transcribed lines are his is not marked. Records \"Harriet Boar was in Old Bible\" and that \"Harret Bohr\" is the form seen \"more often in outside records\"; also carries the Ike Ingram / housemaid story and a \"Cherokee or Creek\" ancestry note. A separate summary page gives George Lewis's parents as \"William W.S. (Samuel William)\" and \"Elizabeth\" with the family arriving from Charleston, SC in 1865 — contradicted outright by census and marriage records. Treated as highly questionable throughout."
+  },
+  "census_1880_booher": {
+    "title": "1880 U.S. census, Kinderhook District, Washington Co., Virginia — Jacob H. Booher household",
+    "repository": "U.S. Federal Census",
+    "date": "1880",
+    "reliability": "derivative",
+    "note": "FamilySearch index consulted here. Head Jacob H. Booher, age 19; Jane Booher, step-mother, age 40, born Tennessee; Elizabeth Samms, age 16, born Tennessee. Jane fits Harriet's mother, remarried into a Booher family after Hiram Sams's desertion; Elizabeth is a younger Sams daughter (b. c.1863–64), not Harriet."
+  },
+  "census_1880_ingram": {
+    "title": "1880 U.S. census, Holston District, Washington Co., Virginia — I. H. Ingram household",
+    "repository": "U.S. Federal Census",
+    "date": "1880",
+    "reliability": "derivative",
+    "note": "FamilySearch index consulted here. I. H. Ingram, merchant, born c.1852; household is a wife and two young daughters, no servants. Matches the initials, trade and locale of the \"Ike Ingram\" of the family's Bible notes, and he is buried at Friendship Cemetery as Harriet was — but no record places Harriet in his household."
+  },
+  "census_1860_washington_lewis": {
+    "title": "1860 U.S. census, Washington Co., Virginia — Philip Lewis household",
+    "repository": "U.S. Federal Census",
+    "date": "1860",
+    "reliability": "primary",
+    "note": "Read in an earlier session. Places Philip Lewis's family in Washington County, Virginia, months before George's birth in December 1860 — so there was no arrival from South Carolina in 1865, as the family's Bible notes claim."
+  },
+  "lewis_death_cert_walter_1955": {
+    "title": "Death certificate, Walter A. Lewis, 1955",
+    "repository": "Tennessee",
+    "date": "1955",
+    "reliability": "reported",
+    "note": "Cited for its naming of his mother as \"Harriet Sams.\" The certificate itself has not been re-examined here."
+  },
+  "numident_lewis_children": {
+    "title": "Social Security (NUMIDENT / SS-5) applications of several children of George W. Lewis",
+    "repository": "U.S. Social Security Administration",
+    "reliability": "reported",
+    "note": "Give their mother's maiden name as Sams. Not re-examined here."
+  }
+}
