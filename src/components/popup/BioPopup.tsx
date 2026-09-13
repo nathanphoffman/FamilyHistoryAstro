@@ -40,7 +40,7 @@ export default function BioPopup({ url, onClose, onNavigate }: Props) {
 
   // Start scrolled to the top whenever new content loads.
   useEffect(() => {
-    if (status === 'ready') bodyRef.current!.scrollTop = 0;
+    if (status === 'ready' && bodyRef.current) bodyRef.current.scrollTop = 0;
   }, [data, status]);
 
   // Citations are real JSX now (Prose renders them, not raw HTML), so this
@@ -58,13 +58,13 @@ export default function BioPopup({ url, onClose, onNavigate }: Props) {
 
   return (
     <div
-      class="fixed inset-0 z-10 flex items-center justify-center bg-[rgba(0,0,0,0.55)] p-5"
+      class="fixed inset-0 z-10 flex items-center justify-center bg-[rgba(0,0,0,0.55)] p-5 animate-[popup-overlay-in_0.15s_ease-out] motion-reduce:animate-none"
       onClick={(e) => {
         if (e.target === e.currentTarget) onClose();
       }}
     >
       <div
-        class="relative max-h-[88vh] w-[min(1080px,100%)] overflow-y-auto rounded-[10px] bg-[#fffdf8] p-6 shadow-[0_8px_30px_rgba(0,0,0,0.35)]"
+        class="relative max-h-[88vh] w-[min(1080px,100%)] overflow-y-auto rounded-[10px] bg-[#fffdf8] p-6 shadow-[0_8px_30px_rgba(0,0,0,0.35)] animate-[popup-dialog-in_0.18s_ease-out] motion-reduce:animate-none"
         role="dialog"
         aria-modal="true"
       >
