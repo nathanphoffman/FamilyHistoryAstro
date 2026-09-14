@@ -19,9 +19,9 @@ parents:
     - name: William "Will" Smith
       parent: father
       person: william_smith
-      status: weakened
-      note: "Right age, right district. The 1886 marriage record that anchored the identification turned out to record both parties as white, so it cannot refer to this man."
-      citations: [census_1870_smith, census_1900_smith, marriage_1886_smith_hall]
+      status: proposed
+      note: "Right age, right district. Recorded Black in 1870/1900 but white on his own 1886 marriage record — a mismatch that looked disqualifying at first, but may just be inconsistent recording of a mixed-ancestry man, which would fit a photograph of Alice showing her as white. Reopened, not confirmed; needs more digging (starting with his uncollected 1880 census image)."
+      citations: [census_1870_smith, census_1900_smith, marriage_1886_smith_hall, census_1880_smith]
 notes:
   - "Her paternity is the central open question in this tree."
   - "Two of her children gave her maiden name as Smith, not Stovall, on federal records."
@@ -105,18 +105,47 @@ strongest positive pointer available.
 The candidate raised on that basis was William "Will" Smith of the Glade Spring
 District, born about 1863–65, son of Andrew Smith (recorded Black) and Sallie
 Smith (recorded Mulatto).[^census_1870_smith] His age and location fit the window
-in which Alice was conceived. The identification has since weakened
-substantially: the 1886 marriage record that appeared to confirm him was checked
-against the manuscript and records both parties as
-white,[^marriage_1886_smith_hall] so it must belong to a different man. No
-verified marriage record for the Will Smith of the 1870 census is presently
-known.
+in which Alice was conceived, and he was recorded Black himself in
+1900.[^census_1900_smith] The identification looked weaker once an 1886 marriage
+record turned up for a William Smith, named as the son of the same Andrew and
+Sallie Smith, recording both parties as white[^marriage_1886_smith_hall] — taken
+at face value, a man recorded Black in 1870 and 1900 cannot be the man recorded
+white in 1886, so the marriage seemed to belong to a different man entirely.
 
-A photograph of Alice held in the family shows her presenting as white. That sits
-awkwardly with any version in which her father was fully African, and points — if
-the Smith identification holds at all — toward a father of mixed rather than
-wholly African ancestry. It is an impression from a picture, not a record, and
-settles nothing on its own.
+A family photograph of Alice, though, argues for reopening that rather than
+closing it. She presents as white in it — which sits awkwardly with a father of
+full African ancestry, but fits well with a father capable of being recorded as
+white in at least one context, as the 1886 groom was. This region's families are
+already documented elsewhere on this page substituting one racial classification
+for another under the Racial Integrity Act era; a man moving between "Black" and
+"white" across different documents may be exactly what that pattern looks like on
+paper, not proof of two different men. None of this confirms William Smith as
+Alice's father — no document ties him directly to her or to Maggie at all, and
+his 1880 census entry has been cited but never actually pulled and
+read[^census_1880_smith] — but the race mismatch alone should not be treated as
+having closed the question. It needs more digging before it goes anywhere.
+
+### Did Alice herself know?
+
+The two records that came directly from her own household frame the silence
+differently than a simple gap in the paper trail. The 1905 marriage register was,
+in the ordinary course of things, filled out from what the couple themselves told
+the clerk — Alice was standing there, age nineteen, on her own wedding day. If she
+had a father's name to give, that was the moment to give it, and none was
+recorded. Sixty years later, at her death, the informant was her son Samuel, who
+had lived his whole life around her, and even he could not produce a real
+one — "A. Stovall" reads as her grandfather's name surfacing by confusion rather
+than an actual answer.[^stovall_death_cert_1965] Across sixty years and two
+generations, nobody who ever filled out a form touching Alice's family wrote down
+a father's name — including, it appears, Alice herself.
+
+That reading is not certain. A blank in the parents' column of an 1905 register
+was also standard clerk practice for a child born outside marriage, regardless of
+what Alice personally knew, so that record alone cannot distinguish "she didn't
+know" from "there was nothing to write down here anyway."[^wash_co_va_marriage_1905]
+It is the pairing with Samuel's mistaken guess sixty years later — a full
+generation on, still no real name in reach — that tips this toward Alice never
+having known, rather than a name deliberately kept and never once passed down.
 
 ## Why the answer may have been buried
 

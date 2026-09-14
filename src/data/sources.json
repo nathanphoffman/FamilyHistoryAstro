@@ -23,9 +23,11 @@
   },
   "ashe_co_nc_marriage_1852": {
     "title": "Marriage record, Philip Lewis & Margaret Rouse, 11 Mar 1852",
-    "repository": "Ashe Co., North Carolina",
+    "repository": "North Carolina, U.S., Marriage Records, 1741-2011 (Ancestry) — Ashe County Marriage Bonds abstract, p. 33",
     "date": "1852-03-11",
-    "reliability": "primary"
+    "reliability": "primary",
+    "note": "Image read here. \"Lewis, Phillip | Margaret Rouse | 11 Mar. 1852, m. 11 Mar. 1852 by Wm. Sexton, J.P. | (w) Wm. Sexton, J.P., William Eller\".",
+    "image": "/img/ashe_co_nc_marriage_1852.jpg"
   },
   "wash_co_va_marriage_1863": {
     "title": "Marriage record, John Quincy Alexander Stovall & Mary E. Lester, 24 Sep 1863",
@@ -82,14 +84,19 @@
   },
   "census_1870_carrier_berry": {
     "title": "1870 U.S. census — Mary Carrier and George Berry household",
-    "repository": "U.S. Federal Census",
+    "repository": "U.S. Federal Census (FamilySearch / NARA M593)",
     "date": "1870",
     "reliability": "primary",
-    "note": "Jane Carrier recorded as widowed and living with her mother and stepfather. Her daughters Harriet and Mary are not in the household."
+    "note": "Image read here. District 3, Sullivan Co., Tennessee. George Berry, 63, farmer, b. TN, and wife Mary Berry, 49, b. TN (married 5 Feb 1866, Sullivan Co.). Living with them: \"Jane Sambs\", 28, b. TN, and \"Elizabeth Sambs\", 7, b. TN — \"Sambs\" a period spelling of Sams, Jane's married surname from her first husband Hiram Sams. Neither Harriet nor Mary (Jane's other daughters) are in the household, as expected.",
+    "image": "/img/census_1870_carrier_berry.jpg"
   },
   "marriage_1871_kidd_rouse": {
-    "title": "Marriage, Noah Kidd & Margaret (Rouse) Lewis, 1871",
-    "reliability": "primary"
+    "title": "Marriage, Noah Kidd & Margaret (Rouse) Lewis, 3 Oct 1871",
+    "repository": "Virginia, U.S., Marriage Registers, 1853-1935 (Ancestry, from the Library of Virginia)",
+    "date": "1871-10-03",
+    "reliability": "primary",
+    "note": "Image read here. Washington Co., VA register, line 122: Noah Kade [Kidd], age 24, married Margaret Rouse, age 25, 3 Oct 1871. Groom's parents given as Lewis & Elizabeth Kade. Row alignment independently verified against the row-number column.",
+    "image": "/img/marriage_1871_kidd_rouse.jpg"
   },
   "census_1870_smith": {
     "title": "1870 U.S. census, Glade Spring District — Andrew and Sallie Smith household",
@@ -118,7 +125,7 @@
     "repository": "Washington Co., Virginia",
     "date": "1886-06-26",
     "reliability": "primary",
-    "note": "Image read here (Washington County Court, Marriage Register H-Z 1785-1902; also indexed in \"Virginia, Vital Records, 1715-1912\" — the equivalent entry in \"Virginia, Bureau of Vital Statistics, County Marriage Registers, 1853-1935\" is affiliate-library restricted). William Smith, 21, b. c.1865, married Jennie Hall, 21. Parents indexed as \"Sallie Smith\" and \"and[rew] Smith\", confirming this is Andrew and Sallie's son William. Both parties are recorded as white — a striking contrast to William being recorded as Black in the 1870 and 1900 censuses — so this record no longer supports the identification with the Will Smith of the 1870 census.",
+    "note": "Image read here (Washington County Court, Marriage Register H-Z 1785-1902; also indexed in \"Virginia, Vital Records, 1715-1912\" — the equivalent entry in \"Virginia, Bureau of Vital Statistics, County Marriage Registers, 1853-1935\" is affiliate-library restricted). William Smith, 21, b. c.1865, married Jennie Hall, 21. Parents indexed as \"Sallie Smith\" and \"and[rew] Smith\", confirming this is Andrew and Sallie's son William. Both parties are recorded as white — a contrast to William being recorded as Black in the 1870 and 1900 censuses. Taken at face value this looks like a different man; taken alongside this region's documented pattern of inconsistent racial recording for mixed-ancestry families (see Alice Louise Stovall's page), and a family photograph of Alice presenting as white, it may instead be the same man recorded differently in different contexts. Unresolved — his 1880 census entry (census_1880_smith) has not yet been pulled to give a third data point.",
     "image": "/img/marriage_1886_smith_hall.jpg"
   },
   "stovall_death_cert_1965": {
@@ -334,14 +341,15 @@
     "repository": "Washington Co., Virginia",
     "date": "1882",
     "reliability": "primary",
-    "note": "Register entry viewed. Dates the marriage to the spring of 1882. Corroborated by the family's Bible notes."
+    "note": "NOT LOCATED, despite an exhaustive search: the entire 1882 Washington Co. VA register paged by hand on Ancestry, plus FamilySearch's Historical Records (multiple surname spellings), Family Tree, Genealogies and full-text search. The only similarly-named entry is a different couple — \"George H Lewis\" (21, parents Samuel & Margaret Lewis) marrying \"Harriet P. Salmons\" (22) on 23 Oct 1882, recorded \"colored\" — confirmed by direct image read to be a different family on name, age, parents and race. The marriage itself is well corroborated independently (1900 census gives \"Marriage Year 1882\" for this household; Walter A. Lewis's 1955 TN death certificate names both parents), so it happened, but no register entry for it has been found in any searched collection. It may never have been formally returned to the county clerk."
   },
   "delayed_birth_bettie_lewis_1949": {
-    "title": "Delayed Certificate of Birth, Bettie Jane Lewis, filed 1949",
-    "repository": "Smyth Co., Virginia",
-    "date": "1949",
+    "title": "Delayed Certificate of Birth, Bettie Jane Lewis, filed 7 Nov 1949",
+    "repository": "Virginia, U.S., Birth Records, 1912-2015, Delayed Birth Records (Ancestry, Virginia Dept. of Health)",
+    "date": "1949-11-07",
     "reliability": "primary",
-    "note": "Image read here. Line 11, \"Mother of Child, full maiden name,\" reads \"Harriett Booher.\" A sworn, notarized statement by Mrs. Flora Mae Greever, who cites a family Bible \"printed in the year 1872\" examined directly by notary David A. Rouse. Mother's race recorded white."
+    "note": "Image read here. Bettie Jane Lewis, born 25 Sept 1896, Washington Co., VA. Father George W. Lewis, age 36 at her birth, Washington Co. VA. Line 11, \"Mother of Child, full maiden name,\" reads \"Harriett Booher\", age 37 at the birth. Sworn statement by Mrs. Flora Mae Greever (relationship: sister-in-law), witnessed by notary David A. Rouse of Smyth Co., VA, citing \"a Bible, examined by me, printed in the year 1872,\" as an unaltered record of the birth. Mother's race recorded white.",
+    "image": "/img/delayed_birth_bettie_lewis_1949.jpg"
   },
   "bible_notes_lewis": {
     "title": "Handwritten notes on an old Lewis family Bible",
@@ -364,22 +372,25 @@
   },
   "census_1860_washington_lewis": {
     "title": "1860 U.S. census, Washington Co., Virginia — Philip Lewis household",
-    "repository": "U.S. Federal Census",
-    "date": "1860",
+    "repository": "U.S. Federal Census (Ancestry)",
+    "date": "1860-08-07",
     "reliability": "primary",
-    "note": "Read in an earlier session. Places Philip Lewis's family in Washington County, Virginia, months before George's birth in December 1860 — so there was no arrival from South Carolina in 1865, as the family's Bible notes claim."
+    "note": "Image read here. Western District, Washington Co., VA, enumerated 7 Aug 1860, p. 168, household #1201: Philip Lewis, 30, day labourer, personal estate $50, b. NC; wife Margaret, 24, housekeeper; daughter Virginia, 1. The family was already resident in Washington County five months before George's December 1860 birth — so there was no 1865 arrival from Charleston, SC, as the family Bible notes claim. The household directly below (lines 30-40) is Isaac Rouse's family, including a Philip Rouse — very likely Margaret (Rouse) Lewis's birth family living next door.",
+    "image": "/img/census_1860_washington_lewis.jpg"
   },
   "lewis_death_cert_walter_1955": {
-    "title": "Death certificate, Walter A. Lewis, 1955",
-    "repository": "Tennessee",
-    "date": "1955",
-    "reliability": "reported",
-    "note": "Cited for its naming of his mother as \"Harriet Sams.\" The certificate itself has not been re-examined here."
+    "title": "Death certificate, Walter Andrew Lewis, 8 Jan 1955",
+    "repository": "Tennessee, U.S., Death Records, 1908-1965 (Ancestry, from the Tennessee State Library and Archives)",
+    "date": "1955-01-08",
+    "reliability": "primary",
+    "note": "Image read here. Certificate #55-01026. Walter Andrew Lewis, white male, born 16 Oct 1883 in Virginia, died 8 Jan 1955 at Corryton, Knox Co., TN, age 71. Father George Lewis; mother \"Harriet Sims\" — an evident transcription variant of Sams. Cause of death sarcoma of the stomach. Informant Mrs. Grace Lewis, Corryton, TN. Buried East End Cemetery, Wytheville, VA.",
+    "image": "/img/lewis_death_cert_walter_1955.jpg"
   },
   "numident_lewis_children": {
-    "title": "Social Security (NUMIDENT / SS-5) applications of several children of George W. Lewis",
-    "repository": "U.S. Social Security Administration",
+    "title": "Social Security (NUMIDENT / SS-5) application, Walter A. Lewis",
+    "repository": "U.S., Social Security Applications and Claims Index, 1936-2007 (Ancestry)",
     "reliability": "reported",
-    "note": "Give their mother's maiden name as Sams. Not re-examined here."
+    "note": "Image read here, but only for Walter: birth date 16 Oct 1883, birthplace Glade Spring, Virginia, claim date 14 May 1951, SSN 410-16-9505 — matching his 1955 death certificate exactly and confirming identity. This particular index entry does not display a mother's-maiden-name field, so it corroborates by birth date/place rather than itself stating \"Sams\"; the broader claim that several children's SS-5s give the mother's maiden name as Sams has not been re-verified for any sibling beyond Walter. James Hiram Lewis's entry in this collection gives an implausible \"Washington Co., Pennsylvania\" birthplace and was not treated as a confirmed match; no clean match was found for Frank T., Mary E. (Wyingear), Maggie (Freeman) or Betty (Barbra).",
+    "image": "/img/numident_lewis_children.jpg"
   }
 }

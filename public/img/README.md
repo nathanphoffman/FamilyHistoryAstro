@@ -33,11 +33,33 @@ Held here now:
   restricts it to affiliate-library access, but Ancestry hosts it openly).
   Confirms the facts already on file: James's parents "G W & Harriet", Alice's
   parents blank father & "Maggie".
+- `marriage_1871_kidd_rouse` — Noah Kidd & Margaret (Rouse) Lewis, 1871; also
+  gives Noah's own parents (Lewis & Elizabeth Kade) and his name's true spelling
+- `ashe_co_nc_marriage_1852` — Philip Lewis & Margaret Rouse, George W. Lewis's parents
+- `census_1860_washington_lewis` — proves the family was in Washington Co. VA
+  five months before George's birth, disproving the Bible's 1865 Charleston
+  arrival story; also flags a likely Rouse-family lead next door
+- `lewis_death_cert_walter_1955` — Walter A. Lewis's TN death certificate,
+  mother "Harriet Sims" (=Sams)
+- `numident_lewis_children` — Walter's SS-5 index record only (matches his
+  death cert on birth date/place; no sibling could be confidently matched)
+- `census_1870_carrier_berry` — Jane (Carrier) Sams as a widow in her mother
+  and stepfather's household, Sullivan Co. TN
+- `delayed_birth_bettie_lewis_1949` — Bettie Jane Lewis's delayed birth
+  certificate, names her mother's maiden name as "Harriett Booher"
 
 Still wanted, in the order they are worth chasing:
 
-1. `ashe_co_nc_marriage_1852` — Lewis/Rouse marriage, Ashe Co. NC
+1. `wash_co_va_marriage_1882` — George W. Lewis & Harriet Eliza Sams's own
+   marriage. Genuinely not found despite an exhaustive search of both
+   FamilySearch and Ancestry, including hand-paging the entire 1882 Washington
+   Co. VA register. The marriage is well corroborated elsewhere (1900 census,
+   Walter's 1955 death cert), so it happened — the register entry itself may
+   simply not survive, or was never formally returned to the clerk.
 2. `wash_co_va_marriage_1863` / `wash_co_va_marriage_1894` — Stovall marriages
 3. `csa_63rd_tn_service` — Hiram Sams service record
 4. `wash_co_va_bastardy` — bastardy investigation papers. Not a scan but an
    archive visit, and still the best shot at Alice's father.
+5. `census_1880_sullivan_harriet` / `census_1880_booher` / `census_1880_ingram`
+   — Harriet as a niece in 1880, and the two candidate explanations for the
+   "Booher" name and the Ike Ingram story
