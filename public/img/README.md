@@ -47,6 +47,24 @@ Held here now:
   and stepfather's household, Sullivan Co. TN
 - `delayed_birth_bettie_lewis_1949` — Bettie Jane Lewis's delayed birth
   certificate, names her mother's maiden name as "Harriett Booher"
+- `wash_co_va_marriage_1863` — Quincy A. Stovall & Mary E. Lester, 1863; names
+  Mary's parents (Wm C. & Ann Lester) for the first time and gives Quincy's
+  parents as James & Ann Stovall, contradicting the family tree's Archelaus
+  Stovall & Mary T. Sandifer
+- `csa_51st_va_stovall` — Quincy A. Stovall's Confederate service record, 51st
+  VA Infantry; enlisted 1861, captured 1864, POW at Elmira until 1865; residence
+  Glade Spring, Washington Co. ties it to our man over a same-named lookalike
+- `csa_63rd_tn_service` — Hiram Sams's Confederate service record, 63rd TN
+  Infantry; enlistment card gives rank "Fifer" and a differing muster date, an
+  ordinary discrepancy between cards from different rolls
+- `census_1850_sullivan_tn` — Hiram, 19, in his father Obediah's household,
+  Sullivan Co. TN, already working as a farmer
+- `census_1880_booher` — corrects an earlier index-only read: Jane (Carrier)
+  Sams is herself the widowed head of this household, not a step-mother in
+  someone else's; her stepson Jacob H. Booher and daughter Elizabeth Samms are
+  both in it
+- `wash_co_va_marriage_1889_booher` — Jane's third marriage, to the widower
+  James L. Booher, 1889; new find, not documented anywhere before this search
 
 Still wanted, in the order they are worth chasing:
 
@@ -56,10 +74,13 @@ Still wanted, in the order they are worth chasing:
    Co. VA register. The marriage is well corroborated elsewhere (1900 census,
    Walter's 1955 death cert), so it happened — the register entry itself may
    simply not survive, or was never formally returned to the clerk.
-2. `wash_co_va_marriage_1863` / `wash_co_va_marriage_1894` — Stovall marriages
-3. `csa_63rd_tn_service` — Hiram Sams service record
-4. `wash_co_va_bastardy` — bastardy investigation papers. Not a scan but an
+2. `wash_co_va_marriage_1894` — Maggie Stovall & William Marshall Roark's own marriage
+3. `wash_co_va_bastardy` — bastardy investigation papers. Not a scan but an
    archive visit, and still the best shot at Alice's father.
-5. `census_1880_sullivan_harriet` / `census_1880_booher` / `census_1880_ingram`
-   — Harriet as a niece in 1880, and the two candidate explanations for the
-   "Booher" name and the Ike Ingram story
+4. `census_1880_sullivan_harriet` / `census_1880_ingram` — Harriet as a niece
+   in 1880, and the Ike Ingram story (`census_1880_booher` is now found — see above)
+5. Hiram Sams & Jane Carrier's own marriage, Sullivan Co. TN, c.1854–55 — searched
+   on both Ancestry and FamilySearch by name and by county, no hit. May not survive.
+6. `sams_deeds_1807_1856` — Obediah Sams's fifty years of Sullivan Co. TN land
+   deeds; not attempted here, would need county deed-book images rather than an
+   indexed database

@@ -6,7 +6,7 @@ sex: M
 birth:
   date: "c.1830–33"
   place: "Sullivan Co., TN"
-  citations: [prior_ai_research]
+  citations: [prior_ai_research, census_1850_sullivan_tn]
 death:
   date: "after 1 Apr 1864"
   note: "Fate unknown. No record of him survives after his desertion was declared."
@@ -48,11 +48,20 @@ or taken back.
 
 ## Research Notes
 
-Hiram Sams was born about 1830–33 in Sullivan County, Tennessee. He enrolled on
-14 May 1862 at Zollicoffer as a private in Company F of the 63rd Tennessee
-Infantry — Fain's Regiment — in Confederate service. He went absent without
-leave on 1 June 1863 and was formally declared a deserter on 1 April
-1864.[^csa_63rd_tn_service]
+Hiram Sams was born about 1830–33 in Sullivan County, Tennessee. In 1850, at 19,
+he was still in his father Obediah's household there, already working as a
+farmer alongside him.[^census_1850_sullivan_tn] He enrolled on 14 May 1862 at
+Zollicoffer as a private in Company F of the 63rd Tennessee Infantry — Fain's
+Regiment — in Confederate service; one surviving card gives his rank as
+"Fifer" rather than private and his enlistment as 30 July rather than 14
+May, the ordinary kind of discrepancy between muster cards compiled from
+different rolls.[^csa_63rd_tn_service] He went absent without leave on 1 June
+1863 and was formally declared a deserter on 1 April 1864.[^csa_63rd_tn_service]
+
+No record of his marriage to Jane Carrier has been found on either Ancestry or
+FamilySearch, despite a direct search by name and by Sullivan Co., Tennessee
+marriage records; like a handful of other marriages in this family, it may
+simply not survive or was never returned to a clerk.
 
 What his absence cost at home is visible in the county's own accounts: the
 family drew indigent relief across 1862–64, the pattern of a household that has
@@ -65,8 +74,10 @@ not recoverable from the record as it stands. He is named on his daughter
 Harriet's 1913 Virginia death certificate as "Hiram Samms".[^sams_death_cert_1913]
 His probable father is Obediah Sams, whose own presence is well documented by the
 1850 census and by fifty years of deeds.[^census_1850_sullivan_tn] His widow Jane
-appears to have remarried into a Booher family by 1880, which is why their
-daughter Harriet was later known as "Harriet Booher".[^census_1880_booher]
+had already remarried and been widowed a second time by 1880, this time into a
+Booher family, which is why their daughter Harriet was later known as "Harriet
+Booher";[^census_1880_booher] Jane went on to marry a third time, to James L.
+Booher, in 1889.[^wash_co_va_marriage_1889_booher]
 
 This branch has been searched and cleared of both the Cherokee and the African
 questions raised elsewhere in the family: no Cherokee roll carries any of these

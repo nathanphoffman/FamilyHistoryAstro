@@ -31,9 +31,12 @@
   },
   "wash_co_va_marriage_1863": {
     "title": "Marriage record, John Quincy Alexander Stovall & Mary E. Lester, 24 Sep 1863",
-    "repository": "Washington Co., Virginia",
+    "repository": "Virginia, U.S., Marriage Registers, 1853-1935 (Ancestry, from the Library of Virginia)",
     "date": "1863-09-24",
-    "reliability": "primary"
+    "reliability": "primary",
+    "note": "Image read here. Washington Co. VA register, line 70: \"Stovall, Quincy A.\" and \"Mary E. Lester\", ages 24 and 22, both single, both born \"Wilks\" [Wilkes Co., N.C.]. Groom's occupation \"Carpenter\". Parents columns: groom's parents \"James Stovall\" and \"Ann Stovall\"; bride's parents \"Wm C. Lester\" and \"Ann Lester\" — the first record found naming Mary's parents. Ceremony performed by James A. Davis. This contradicts the family's Ancestry tree (ancestry_tree_35916700), which gives the groom's parents as Archelaus \"Arch\" Stovall and Mary T. Sandifer; the primary register is preferred.",
+    "image": "/img/wash_co_va_marriage_1863.jpg",
+    "url": "https://www.ancestry.com/imageviewer/collections/62154/images/62154_i1023811-00123?pId=426830"
   },
   "wash_co_va_marriage_1894": {
     "title": "Marriage record, Maggie Stovall & William Marshall Roark, 16 Aug 1894",
@@ -49,9 +52,10 @@
   },
   "csa_63rd_tn_service": {
     "title": "Compiled service record, Pvt. Hiram Sams, Co. F, 63rd Tennessee Infantry, CSA",
-    "repository": "Confederate service records",
+    "repository": "U.S., Confederate Soldiers Compiled Service Records, 1861-1865 (Ancestry, collection 2322, record 79171986); U.S., Civil War Soldier Records and Profiles, 1861-1865 (Ancestry, collection 1555, record 3223744)",
     "reliability": "primary",
-    "note": "Enrolled 14 May 1862 at Zollicoffer. Absent without leave from 1 June 1863; formally declared a deserter 1 April 1864. No record of him survives after that date."
+    "note": "Image read here (derived/compiled index cards, not a single scanned document; the underlying jacket is on Fold3 only). One card gives rank \"Fifer\", age 30, birth year abt 1832, enlisted 14 May 1862 at Sullivan Co., Tennessee (i.e. Zollicoffer), unit \"Sixty-Third Infantry (Fain's Regiment, Seventy-Fourth Infantry)\". A second, separately compiled profile gives enlistment/muster 30 Jul 1862, rank Private, Company F, 63rd Infantry — the two enlistment dates conflict slightly, ordinary for cards compiled from different muster rolls. Neither card shown carries the AWOL/desertion dates; those come from prior_ai_research's earlier pass over the fuller service jacket. Enrolled 14 May 1862 at Zollicoffer. Absent without leave from 1 June 1863; formally declared a deserter 1 April 1864. No record of him survives after that date.",
+    "image": "/img/csa_63rd_tn_service.jpg"
   },
   "stewartstown_cemetery": {
     "title": "Burial, Stewartstown Cemetery, York Co., Pennsylvania",
@@ -67,9 +71,11 @@
   },
   "census_1850_sullivan_tn": {
     "title": "1850 U.S. census, Sullivan Co., Tennessee — Obediah Sams household",
-    "repository": "U.S. Federal Census",
+    "repository": "U.S. Federal Census (Ancestry, collection 8054)",
     "date": "1850",
-    "reliability": "primary"
+    "reliability": "primary",
+    "note": "Image read here. Division 1, Sullivan Co., Tennessee, dwelling/family 702: Obediah Sands, 63, farmer, real estate $1000, b. Tennessee; Hiram, 19, farmer, no birthplace ditto shown; Lucinda, 22. Hiram's age gives a birth year of about 1831, consistent with the range already on file (c.1830–33), and places him working as a farmer in his father's household eleven years before enlisting.",
+    "image": "/img/census_1850_sullivan_tn.jpg"
   },
   "sams_deeds_1807_1856": {
     "title": "Land deeds of Obediah Sams, 1807–1856",
@@ -153,7 +159,22 @@
   "jqa_stovall_absence": {
     "title": "Census and marriage records documenting J. Q. A. Stovall's departure and remarriages",
     "reliability": "derivative",
-    "note": "Place him away from the area from c.1878–80 onward, more than six years before Alice's birth."
+    "note": "Place him away from the area from c.1878–80 onward, more than six years before Alice's birth. The specific census/remarriage records themselves have not been pulled — see ancestry_tree_stovall_patrick_co for a candidate identification that was checked and rejected as probably a different man."
+  },
+  "ancestry_tree_stovall_patrick_co": {
+    "title": "\"Bartholomew Stovall Family Tree\" profile for a John Quincy Alexander Stovall, b. Feb 1839 – d. 9 Jan 1929",
+    "repository": "Ancestry.com (member tree, user tuffpd)",
+    "url": "https://www.ancestry.com/family-tree/person/tree/46904393/person/6996066662/facts",
+    "reliability": "unsourced",
+    "note": "Checked while looking for records of J. Q. A. Stovall's post-1878 life. This profile carries the same birth year (1839) and exact death date (9 Jan 1929) as our man, but its parentage and marriage conflict outright: birthplace Stuart, Patrick Co., VA (not Wilkes Co., N.C.); parents Archelaus Hughes Stovall & Mary Tabb Sandifer (not James & Ann Stovall per wash_co_va_marriage_1863); a wife Rebecca Williams (1847–1901) with five children born 1869–1879, then a later wife Frances C. Franklin — Mary E. Lester does not appear anywhere on this profile, and the child-bearing years overlap the period our man was still married to Mary. That part is read as a different, same-named Stovall (probably a cousin from the same southwest Virginia/NC border cluster) mistakenly merged into one profile. Its attached Confederate service record, however, checks out independently — see csa_51st_va_stovall, whose residence field (Glade Spring, Washington Co., VA) ties it to our man rather than the Patrick Co. one."
+  },
+  "csa_51st_va_stovall": {
+    "title": "Confederate service record, Pvt. Quincy A. Stovall, Co. D, 51st Virginia Infantry",
+    "repository": "U.S., Civil War Soldier Records and Profiles, 1861-1865 (Ancestry, collection 1555, record 1639537)",
+    "reliability": "primary",
+    "note": "Image read here (a derived/compiled profile, not a single scanned document). Enlisted as a Private 14 Jun 1861 at Elamsville, Virginia; mustered into Co. D, 51st Virginia Infantry. Captured/imprisoned 16 Jul 1864 in \"London County\" [Loudoun Co.], Virginia — the same capture the outside Ancestry tree's POW card describes (received at Elmira, N.Y., 25 Jul 1864 from Old Capitol Prison, released 29 May 1865). Survived the war. Described as florid complexion, blue eyes, auburn hair, 5 ft. 8 in. Residence given as Glade Spring, Washington Co., Virginia — the decisive detail tying this service record to our man rather than to the Patrick Co. Stovall in ancestry_tree_stovall_patrick_co. Fits the timeline cleanly: enlisted 1861, married Mary E. Lester in Sept 1863 (presumably on furlough or between postings), captured Jul 1864, held as a POW until the war's end, then presumably returned home before leaving the family c.1878–80.",
+    "image": "/img/csa_51st_va_stovall.jpg",
+    "url": "https://www.ancestry.com/search/collections/1555/records/1639537"
   },
   "cherokee_roll_searches": {
     "title": "Cherokee enrolment records searched — Guion Miller Index, Dawes Rolls, Baker Roll, and the 1835, 1851 and 1884 rolls",
@@ -357,11 +378,21 @@
     "note": "Loose pages photographed here, of unknown authorship and date, mixing transcription of a Bible said to date to 1872 with later family recollection. Some entries are second- or third-hand. Separate notes found among the papers of Colleen Hoffman (Lorene Lewis's daughter) indicate that George W. Lewis himself wrote several of the entries in the underlying Bible; which of the transcribed lines are his is not marked. Records \"Harriet Boar was in Old Bible\" and that \"Harret Bohr\" is the form seen \"more often in outside records\"; also carries the Ike Ingram / housemaid story and a \"Cherokee or Creek\" ancestry note. A separate summary page gives George Lewis's parents as \"William W.S. (Samuel William)\" and \"Elizabeth\" with the family arriving from Charleston, SC in 1865 — contradicted outright by census and marriage records. Treated as highly questionable throughout."
   },
   "census_1880_booher": {
-    "title": "1880 U.S. census, Kinderhook District, Washington Co., Virginia — Jacob H. Booher household",
-    "repository": "U.S. Federal Census",
+    "title": "1880 U.S. census, Kinderhook District, Washington Co., Virginia — Jane Booher household",
+    "repository": "U.S. Federal Census (Ancestry, collection 6742)",
     "date": "1880",
-    "reliability": "derivative",
-    "note": "FamilySearch index consulted here. Head Jacob H. Booher, age 19; Jane Booher, step-mother, age 40, born Tennessee; Elizabeth Samms, age 16, born Tennessee. Jane fits Harriet's mother, remarried into a Booher family after Hiram Sams's desertion; Elizabeth is a younger Sams daughter (b. c.1863–64), not Harriet."
+    "reliability": "primary",
+    "note": "Image read here. Corrects an earlier index-only read: Jane Booher is herself the head of the household, not a step-mother in someone else's. Dwelling/family 675, Kinderhook District: Jane Booher, 40, white, widowed, keeping house, b. Tennessee, both parents b. Tennessee, cannot read or write; Jacob H. Booher, 19, stepson, farm laborer, b. Virginia — meaning Jane had already married and lost a first Mr. Booher by 1880; Elizabeth Samms, 16, daughter, at home, b. Tennessee — a younger Sams daughter (b. c.1863–1864), not Harriet. A different, apparently unrelated Booher family (James L. Booher, wife Rebecca, and their children) lives next door on the same page — see wash_co_va_marriage_1889_booher, where Jane goes on to marry this James L. Booher nine years later.",
+    "image": "/img/census_1880_booher.jpg"
+  },
+  "wash_co_va_marriage_1889_booher": {
+    "title": "Marriage record, James L. Booher & Jane Booher, 3 Apr 1889",
+    "repository": "Virginia, U.S., Marriage Registers, 1853-1935 (Ancestry, from the Library of Virginia)",
+    "date": "1889-04-03",
+    "reliability": "primary",
+    "note": "Image read here. Washington Co. VA register: James L. Booher, 56, and Jane Booher, 47, both white and both widowed, both giving residence \"Washington Co.\" for the groom and \"Sullivan Co., Tenn.\" for the bride — the same Tennessee county as Hiram Sams's own enlistment, corroborating this is the same Jane Carrier/Sams/Booher throughout. Ceremony performed by H. P. Waugh. James L. Booher is the same man recorded as a widower with grown children (Rebecca having died between the 1880 census and this marriage) two households away from Jane's own in the 1880 census — see census_1880_booher. This is Jane's third marriage on record (Hiram Sams, an unnamed first Mr. Booher by whom she was already widowed in 1880, then James L. Booher here), not documented anywhere before this search.",
+    "image": "/img/wash_co_va_marriage_1889_booher.jpg",
+    "url": "https://www.ancestry.com/search/collections/62154/records/90431360"
   },
   "census_1880_ingram": {
     "title": "1880 U.S. census, Holston District, Washington Co., Virginia — I. H. Ingram household",
