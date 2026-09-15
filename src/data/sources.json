@@ -40,15 +40,18 @@
   },
   "wash_co_va_marriage_1894": {
     "title": "Marriage record, Maggie Stovall & William Marshall Roark, 16 Aug 1894",
-    "repository": "Washington Co., Virginia",
+    "repository": "Virginia, U.S., Marriage Registers, 1853-1935 (Ancestry, from the Library of Virginia)",
     "date": "1894-08-16",
-    "reliability": "primary"
+    "reliability": "primary",
+    "note": "Image read here. Washington Co. VA register, line 16 (August): \"Wm Roark\" and \"Maggie Stovall\", ages 36 and 30, groom widowed, groom born Ashe Co., N.C., bride resident Washington Co. Groom's parents \"Wm & Patsy Roark\"; bride's parents column reads \"— & Mary Stoval\" — no father named, only her mother (by Mary's married surname), the same pattern as the 1905 register for Maggie's daughter Alice. Ceremony performed by E. F. Kahle. A separately indexed collection (Virginia, U.S., Select Marriages, 1785-1940) gives the date as 12 Aug rather than 16 Aug and Maggie's birthplace as \"Wash. Co.\" — the register image is preferred for the date.",
+    "image": "/img/wash_co_va_marriage_1894.jpg",
+    "url": "https://www.ancestry.com/imageviewer/collections/62154/images/62154_i1023811-00386?pId=432424"
   },
   "wash_co_va_bastardy": {
     "title": "Bastardy investigation, Washington Co., Virginia",
     "repository": "Washington Co., Virginia",
     "reliability": "primary",
-    "note": "Open question. Cited as the avenue for identifying Alice Louise Stovall's father."
+    "note": "Open question. Cited as the avenue for identifying Alice Louise Stovall's father. Searched again on Ancestry (by Maggie Stovall's name and by keyword within Washington Co. records) with no hit; this is consistent with earlier notes that it is not a digitized record but requires an in-person visit to the Washington Co. courthouse or the Library of Virginia."
   },
   "csa_63rd_tn_service": {
     "title": "Compiled service record, Pvt. Hiram Sams, Co. F, 63rd Tennessee Infantry, CSA",
@@ -333,6 +336,14 @@
     "date": "1880",
     "reliability": "reported",
     "note": "Cited in the family's Ancestry tree. Not re-examined here. Fits the 1870 census, which shows her mother Jane widowed with her daughters living elsewhere."
+  },
+  "census_1880_glade_spring_stovall": {
+    "title": "1880 U.S. census, Glade Spring, Washington Co., Virginia — Mary Stovall household",
+    "repository": "U.S. Federal Census (Ancestry, collection 6742)",
+    "date": "1880",
+    "reliability": "primary",
+    "note": "Image read here. Dwelling/family 133/136, Glade Spring, Washington Co.: Mary Stovall, 38, white, keeping house, head of household, b. Virginia, both parents b. Virginia; Maggie, 18, daughter, at home, cannot write; Henry, 12, son, at home; William, 9, son, at home — all three children b. Virginia. This is Mary E. Lester after John Quincy Alexander Stovall's departure (c.1878–80): she is alone, head of her own household, four to six years before Maggie's daughter Alice was born in 1886. Henry (b. c.1868) and William (b. c.1871) are two previously undocumented children of J. Q. A. Stovall and Mary E. Lester — siblings of Maggie not recorded anywhere else in this tree.",
+    "image": "/img/census_1880_glade_spring_stovall.jpg"
   },
   "census_1910_glade_spring_maggie": {
     "title": "1910 U.S. census, Glade Spring, Washington Co., Virginia — Maggie, servant",

@@ -17,6 +17,8 @@ answer everyone keeps looking for.
 ## Research Notes
 
 William Marshall Roark married Maggie Stovall on 16 August
-1894.[^wash_co_va_marriage_1894] He appears in this tree as Maggie's husband
-only — the marriage postdates Alice's 1886 birth by eight years, so he is not a
-direct ancestor of Lorene Lewis.
+1894.[^wash_co_va_marriage_1894] The register gives his age as 36, widowed,
+born Ashe Co., N.C., parents Wm. & Patsy Roark; the ceremony was performed by
+E. F. Kahle. He appears in this tree as Maggie's husband only — the marriage
+postdates Alice's 1886 birth by eight years, so he is not a direct ancestor of
+Lorene Lewis.

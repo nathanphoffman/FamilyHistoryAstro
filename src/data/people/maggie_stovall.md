@@ -42,10 +42,26 @@ Maggie Stovall was born about 1862–64 to John Quincy Alexander Stovall and Mar
 E. Lester, and died in 1943. Her father left the family around 1878–80, when she
 was in her teens.[^jqa_stovall_absence]
 
+She was not an only child. The 1880 census finds her, 18, in her mother Mary's
+household in Glade Spring — Mary keeping house alone, already on her own after
+her husband's departure — alongside two brothers not recorded anywhere else in
+this tree: Henry, 12, and William, 9.[^census_1880_glade_spring_stovall] Both
+were born in Virginia before J. Q. A. Stovall left. Neither has been traced
+further and no profile has been built for either; they are noted here only so
+the finding is on record.
+
 Her daughter Alice was born in May 1886. Maggie did not marry until 16 August
 1894, when she wed William Marshall Roark,[^wash_co_va_marriage_1894] so Roark
 cannot be Alice's father, and Alice's paternity remains the open question in this
 line.[^wash_co_va_bastardy]
+
+The 1894 register gives her age as 30 (consistent with a birth in the early
+1860s) and, in the column for her own parents, reads "— & Mary Stoval" — no
+father named, only her mother by her married surname.[^wash_co_va_marriage_1894]
+The same blank appears eleven years later on her daughter Alice's 1905 marriage
+record. Whatever the reason no father was recorded for Maggie herself, it was
+already true in her own generation, not something that only became unclear by
+the time Alice married.
 
 The 1905 marriage register puts her at the centre of that question in the
 clearest way available. In the column for the bride's parents it records one
