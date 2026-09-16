@@ -166,16 +166,20 @@ Cherokee roll despite a real financial incentive to file a claim in
 1906–09,[^cherokee_roll_searches] and every generation of this family is recorded
 white.
 
-This is the side of the family the spoken tradition actually points to. Colleen
-Wallick — who kept the Bible and its transcription pages — placed the Native
-American ancestry on her mother's *paternal* line, running up through Lorene's
-father James Hiram Lewis to his mother, Harriet; her granddaughter Holly recalls
-Colleen saying the same. The handwritten Bible notes, thought to be partly in
-Colleen's own hand, carry the "Cherokee or Creek" line on this
-side.[^bible_notes_lewis] An earlier version of this history attached the
-tradition to Alice Louise Stovall instead, from a grandson's misremembering of
-Colleen's words; that has been corrected, and it does not change any of the
-conclusions reached about Alice.
+This is the side of the family Colleen's own earlier notes point to. She — who
+kept the Bible and its transcription pages, and whose handwritten notes are thought
+to date from a period when her memory was sound — recorded the tradition on her
+mother's *paternal* line, running up through Lorene's father James Hiram Lewis to
+his mother, Harriet.[^bible_notes_lewis] That is not the whole of her testimony,
+though: later in life, asked directly, she told her grandson Nate the ancestry ran
+through her own *maternal* grandmother instead, without being able to recall the
+name (Alice Louise Stovall); her granddaughter Holly independently recalls the same
+maternal-grandmother direction, naming Maggie Stovall, who is in fact Alice's
+mother, one generation further back on the same branch. Weighed against Colleen's
+own earlier notes, that later verbal account is treated as the less reliable of the
+two, but it is genuine family testimony, not a single grandson's misremembering,
+and it is what sent much of the early research to Alice's line instead. None of
+that changes the conclusions reached about Alice's own parentage.
 
 Harriet was also, for a time, the candidate a later researcher — the same
 grandson — reached independently, on the grounds that her birth and parentage

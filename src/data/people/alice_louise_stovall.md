@@ -29,7 +29,7 @@ notes:
 tags:
   # Order matters: the chart cards show only the first two.
   - { tag: unresolved_parentage, note: "Father never recorded — the central open question in this tree" }
-  - { tag: ancestry_question, note: "Long searched for the family’s Cherokee account, but that account points to Harriet Sams’s side, not this one" }
+  - { tag: ancestry_question, note: "Long searched for the family’s Cherokee account; Colleen’s own earlier notes point to Harriet Sams’s side, but her later recollection, and Holly’s, point back to this one" }
   - { tag: illegitimacy, note: "Born outside marriage; carried her mother’s surname" }
   - { tag: migration, note: "Died at York, Pennsylvania" }
 ---
@@ -45,11 +45,13 @@ two of her own children would say her maiden name had really been Smith — a sm
 stubborn clue that has never quite been explained.
 
 The family still tells a story of Native American ancestry — Cherokee, by most
-accounts — and for years the search for it centred on Alice. That turned out to be
-a wrong turn: the family's own account, as Colleen Wallick carried it, places the
-tradition on the other side of Lorene's parentage, with Harriet Sams. Alice's line
-was combed all the same, because her unrecorded father leaves exactly the kind of
-gap such a story can grow over — and nothing there was ever confirmed either.
+accounts — and for years the search for it centred on Alice. That's not simply a
+wrong turn: Colleen's own earlier notes point the tradition toward the other side
+of Lorene's parentage, with Harriet Sams, but Colleen herself, later in life, told
+both her grandson and granddaughter it ran through her own maternal grandmother —
+this line. Alice's line was combed thoroughly either way, because her unrecorded
+father leaves exactly the kind of gap such a story can grow over — and nothing
+there was ever confirmed either.
 
 On an October day in 1905, at nineteen, Alice married James Hiram Lewis in
 Washington County. Together they raised a family, including daughters Effie Mae
@@ -165,16 +167,21 @@ avenue.[^wash_co_va_bastardy]
 
 ## The Cherokee account, and why Alice's line was searched
 
-The family's account does not, on its own terms, run through this line. Colleen
-Wallick placed the Native American ancestry on her mother's *paternal* side — the
-Lewis–Sams line, and specifically Harriet Eliza Sams — and her granddaughter Holly
-recalls the same.[^bible_notes_lewis] Alice was drawn into it here through her
-grandson Nate: he recalled Colleen saying the ancestry came through "her
-grandmother" and read that as her maternal grandmother, Alice. On Colleen's own
-telling it is the other grandmother, up Lorene's paternal side. Nate had also, for
-a while, reached Harriet independently — she was the hardest birth in the tree to
-trace — but that reasoning collapsed once the trouble proved to be a name
-confusion rather than a hidden origin.
+The family's account does not straightforwardly run through this line, though it
+isn't a clean miss either. Colleen Wallick's own handwritten notes — earlier, and
+thought to date from a period when her memory was sound — point to her mother's
+*paternal* side instead, the Lewis–Sams line and specifically Harriet Eliza
+Sams.[^bible_notes_lewis] But in her later years, asked directly, Colleen told her
+grandson Nate the ancestry ran through her own *maternal* grandmother's side,
+without being able to recall Alice's name; her granddaughter Holly independently
+recalls the same maternal-grandmother direction, naming Maggie Stovall — who is in
+fact Alice's mother, one generation further back on the same branch. Set against
+Colleen's own earlier notes, that later verbal account is judged the less reliable
+of the two, but it is what sent much of the early research to Alice's line, and it
+is real family testimony rather than a single grandson's misremembering. Nate had
+also, for a while, reached Harriet independently, on the grounds that she was the
+hardest birth in the tree to trace — reasoning that collapsed once the trouble
+proved to be a name confusion (Sams/Booher) rather than a hidden origin.
 
 Alice's line was worked through anyway, and the reasons it fails are worth
 keeping. The question had been reopened by a consumer DNA result reported within

@@ -15,6 +15,7 @@ parents:
   citations: [prior_ai_research]
 notes:
   - "Bore Alice in 1886, eight years before her 1894 marriage."
+  - "Independently named by Holly, decades later, as a guess for the family's Cherokee ancestor on the maternal side — likely a one-generation conflation with her daughter Alice, who sits at that position in the tree."
 tags:
   - { tag: illegitimacy, note: "Bore Alice eight years before she married" }
 ---
