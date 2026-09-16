@@ -7,7 +7,7 @@ birth:
   date: "1653"
   citations: [ancestry_tree_35916700]
 death:
-  date: "1729"
+  date: "1729-12-30"
   citations: [ancestry_tree_35916700]
 tags:
   - { tag: life_detail, note: "The tree claims descent from a founder of Germantown — a real man, an unevidenced descent" }

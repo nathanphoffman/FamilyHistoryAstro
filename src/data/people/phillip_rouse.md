@@ -20,11 +20,11 @@ unverified: "Present in this tree only on the authority of the family's Ancestry
 
 Phillip Rouse is less a person here than a set of dates that won't sit together.
 The family tree names him as the father of Philip Isaac Rouse and gives him a
-wife, a birth year of 1782, and a death in 1856 — but it also has him marrying at
-fourteen, to a woman of twenty, and then waiting twenty-four years for a son.
-Numbers that strained are usually the sign of a generation that has quietly
-dropped out of the record, two men's lives folded into one name. No document for
-him has ever turned up.
+wife, a birth year of 1782, and a death in 1856 — but it also has his own parents
+marrying at fourteen and twenty and then waiting twenty-four years for Phillip's
+birth. Numbers that strained are usually the sign of a generation that has
+quietly dropped out of the record, two men's lives folded into one name. No
+document for him has ever turned up.
 
 ## Research Notes
 
@@ -40,7 +40,8 @@ first wife, Margaret Surber, is recorded as living until 1847, so a marriage in
 date is wrong or one of the women is misplaced, and there is nothing here to say
 which. She is not an ancestor of this line in any case.
 
-His own marriage carries a further problem. The tree dates it to 1758, when he
-was fourteen and his wife twenty — and puts their son's birth twenty-four years
-after it. None of that is flatly impossible, and all of it is the shape a tree
-takes when a generation has quietly gone missing.
+His parents' own marriage carries a further problem. The tree dates it to 1758,
+when his father Paulser was fourteen and his mother Mary Magdalene was twenty —
+and puts Phillip's own birth twenty-four years after it, in 1782. None of that is
+flatly impossible, and all of it is the shape a tree takes when a generation has
+quietly gone missing.

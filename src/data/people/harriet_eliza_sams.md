@@ -42,9 +42,8 @@ stretch of her girlhood she lived in the home of an aunt and uncle. Her mother
 eventually remarried into a family named Booher, and Harriet grew up so closely
 tied to that household that people around her simply called her "Harriet Booher"
 — a name that stuck to her for years, right through the time a young man named
-George Lewis was courting her. She never had the chance to learn her letters; she
-could not read or write her whole life which is why she likely did not know how to spell her adopted 
-maiden name which George Lewis would later transcribe it how he heard it "Boar."
+George Lewis was courting her. George wrote her adopted name down as he heard it
+— "Boar" — in the family Bible he kept.
 
 In the spring of 1882, in Washington County, Virginia, Harriet married George W.
 Lewis. She settled into life there as a wife and mother, raising a family that
@@ -65,8 +64,10 @@ her better than anyone.
 ## Research Notes
 
 Harriet Eliza Sams was born 4 August 1856 in Sullivan County, Tennessee, and
-married George W. Lewis in the spring of 1882 in Washington County,
-Virginia.[^wash_co_va_marriage_1882] She died of tuberculosis of the trachea on 4
+married George W. Lewis in the spring of 1882 in Washington County, Virginia —
+the register entry itself has never been located, though the marriage is
+corroborated independently elsewhere.[^wash_co_va_marriage_1882] She died of
+tuberculosis of the trachea on 4
 January 1913 in the Holston district of Washington County, Virginia, aged 56
 years, 5 months and 0 days, and was buried the next day at Friendship Cemetery,
 Glade Spring.[^sams_death_cert_1913]
@@ -77,9 +78,9 @@ resolve to Hiram Sams and Jane Carrier, and gives her occupation as housewife an
 her race as white. The informant was "Geo Lewis" of Glade Spring — her husband,
 George W. Lewis, which is as close to first-hand as this kind of record gets for
 her own details.[^sams_death_cert_1913] She is recorded as white on every
-document that states a race — the 1900, 1910 and 1913 records and the 1949
-delayed birth certificate of her daughter Bettie Jane[^delayed_birth_bettie_lewis_1949]
-— and the 1910 census records her as unable to read or write.
+document that states a race — her own 1913 death certificate and the 1949
+delayed birth certificate of her daughter Bettie
+Jane.[^sams_death_cert_1913][^delayed_birth_bettie_lewis_1949]
 
 Two things on the death certificate are worth drawing out. Her stated age, 56
 years 5 months 0 days on 4 January 1913, agrees exactly with a birth on 4 August
@@ -96,9 +97,11 @@ The 1870 census shows her mother Jane widowed and living with her own mother and
 stepfather, with her daughters not in the household[^census_1870_carrier_berry] —
 a family broken up and its children placed with relatives. That she named a son
 James Hiram Lewis, apparently for her father, and that her son Walter's 1955
-Tennessee death record and the Social Security applications of several of her
-children give her maiden name as Sams, all point the same
-way.[^lewis_death_cert_walter_1955][^numident_lewis_children]
+Tennessee death record gives her maiden name as Sams, both point the same
+way.[^lewis_death_cert_walter_1955] Walter's own Social Security application has
+been read directly, but it does not carry a mother's-maiden-name field; it
+corroborates his identity by birth date and place rather than by naming Sams,
+and no equivalent record has been checked for his siblings.[^numident_lewis_children]
 
 The family's Ancestry tree gives her death as 1914. Her death certificate gives 4
 January 1913, and is the better authority; the 1914 date has not been

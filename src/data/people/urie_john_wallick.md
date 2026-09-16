@@ -5,7 +5,8 @@ sex: M
 occupation: Electrotyper
 birth:
   date: "1912-05-01"
-  place: "York Co., PA"
+  place: "Pennsylvania"
+  note: "Cited sources only establish a Pennsylvania birth; no record naming York Co. specifically for his birth has been found."
   citations: [prior_ai_research, census_1950_york]
 death:
   date: "1982-07-29"
@@ -17,7 +18,8 @@ burial:
 parents:
   father: john_ralph_wallick
   mother: myrtle_edith_may
-  confidence: documented
+  confidence: probable
+  note: "wallick_may_marriage_1901 records his parents' own wedding, not a document naming Urie as their child; no birth record or census linking him directly to them has been found."
   citations: [wallick_may_marriage_1901]
 notes:
   - "Husband of Lorene E. Lewis. His own ancestry is charted on its own page."
@@ -31,8 +33,8 @@ tags:
 
 The name traveled down the family in a straight line: Uriah Stair Wallick, then
 Urie John, then Urie Jim — grandfather to father to son, a printer's family in
-York County, Pennsylvania. Urie John Wallick, born there in the spring of 1912,
-was the fourth of five children, and he took up the family's kind of work:
+York County, Pennsylvania. Urie John Wallick, born in Pennsylvania in the spring
+of 1912, was the fourth of five children, and he took up the family's kind of work:
 electrotyping, the skilled craft of making metal plates for a printing press. It
 placed him among York's industrial tradesmen, a world away from the tenant-farm
 Virginia hills his wife came from.
@@ -49,8 +51,16 @@ his family had lived and worked in for generations.
 
 ## Research Notes
 
-Urie John Wallick was born 1 May 1912 in York County, Pennsylvania, the fourth
-of five children of John Ralph Wallick and Myrtle Edith May.[^wallick_may_marriage_1901]
+Urie John Wallick was born 1 May 1912 in Pennsylvania, a child of John Ralph
+Wallick and Myrtle Edith May; no record naming York County specifically for his
+own birth has been found, though the wider family is York County
+throughout.[^wallick_may_marriage_1901] No document has been found that names
+Urie as their son directly — the marriage record cited here documents his
+parents' own wedding, not his filiation to them — so the parentage is carried as
+probable rather than documented. He was the fourth of their five children by
+birth year: Hanna and Melvin in 1902, Kenneth in 1903, Urie in 1912, and Richard
+in 1915.[^prior_ai_research]
+
 The 1950 census finds the family at house 603 in York: Urie, 37, at work forty
 hours a week, his occupation given as electrotyping and his industry as a
 printing company; Lorene, 39, born in Virginia, keeping house; and their three

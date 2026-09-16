@@ -52,7 +52,10 @@ eighty-three — an unusually long life for his cohort. His father died when he 
 a small child, and his mother remarried in 1871.[^marriage_1871_kidd_rouse]
 
 He married Harriet Eliza Sams in the spring of 1882 in Washington County,
-Virginia.[^wash_co_va_marriage_1882] No occupation has been recorded for him. His
+Virginia — no register entry for the marriage has ever been found despite an
+exhaustive search, but the date is corroborated independently by the 1900
+census and by Walter's 1955 death certificate.[^wash_co_va_marriage_1882] No
+occupation has been recorded for him. His
 son James's 1905 marriage record names his father only as "G
 Wm",[^wash_co_va_marriage_1905] which is the basis for reading his middle name as
 William.

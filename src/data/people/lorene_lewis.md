@@ -65,11 +65,14 @@ generations and working in the printing trades.
 
 By 1930 she was living in York on her own account, aged nineteen, lodging in
 someone else's house and working as a waitress — she had left Virginia alone
-before she was twenty.[^census_1930_york][^ancestry_tree_35916700] The family's Ancestry tree adds that
-the house she lodged in was valued at $15,000, a detail typed in rather than
-cited, and an inference from the census rather than a reading of
+before she was twenty. This is as the family's Ancestry tree reports it; the
+underlying 1930 census image has not been re-examined
+here.[^census_1930_york][^ancestry_tree_35916700] The tree adds that the house
+she lodged in was valued at $15,000, a detail typed in rather than cited, and an
+inference from the census rather than a reading of
 it.[^ancestry_tree_35916700] She appears in the 1940 census at New Salem, York
-County, recorded as a wife.[^census_1940_new_salem]
+County, recorded as a wife — again as the tree reports it rather than as read
+directly here.[^census_1940_new_salem]
 
 By 1950 the household is at house 603 in York: Urie, 37, an electrotyper in a
 printing company; Lorene, 39, keeping house, and recorded as born in Virginia —

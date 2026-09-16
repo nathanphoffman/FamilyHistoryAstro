@@ -24,7 +24,7 @@ tags:
   - { tag: migration, note: "Born in Virginia, buried in Pennsylvania" }
   - { tag: occupation, note: "Retired from the York Naval Ordnance Plant" }
 notes:
-  - "Two records now put his birth before 12 December 1885: the 1905 marriage register (age 20 in October) and his 1955 obituary (age 70). The December 1885 date is kept, but it is the weakest-supported fact on this record."
+  - "Three records now conflict on his birth date — the 1905 marriage register and 1955 obituary both imply a birth before 12 December 1885, and his WWI draft card gives a third, earlier date (17 Jan 1883). The 1900 census is the closest thing to a tiebreaker and roughly favors the date kept here, but it remains the weakest-supported fact on this record; see \"When was he born?\" below."
 
 ---
 

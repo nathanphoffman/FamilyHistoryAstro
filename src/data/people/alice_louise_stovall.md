@@ -14,7 +14,7 @@ parents:
   mother: maggie_stovall
   confidence: unconfirmed
   note: "Father unrecorded. The Washington Co. bastardy investigation is the most likely avenue for identifying him."
-  citations: [wash_co_va_marriage_1905, wash_co_va_bastardy, stovall_death_cert_1965, ss5_numident_alice, ss5_numident_alice_2]
+  citations: [wash_co_va_marriage_1905, va_vital_index_1905, wash_co_va_bastardy, stovall_death_cert_1965, ss5_numident_alice, ss5_numident_alice_2]
   candidates:
     - name: William "Will" Smith
       parent: father

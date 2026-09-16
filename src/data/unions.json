@@ -120,7 +120,7 @@
       "mary_carrier"
     ],
     "type": "marriage",
-    "date": "after 1866",
+    "date": "1866-02-05",
     "children": [],
     "citations": [
       "census_1870_carrier_berry"
@@ -201,5 +201,21 @@
       "ancestry_tree_35916700"
     ],
     "note": "Date from the family's Ancestry tree, which attaches no record. Nancy's approximate birth of 1781 would make her thirteen."
+  },
+  {
+    "id": "u_ipock_mitchell_1786",
+    "spouses": [
+      "alonzo_peter_ipock",
+      "sallie_ann_mitchell"
+    ],
+    "type": "marriage",
+    "date": "1786",
+    "children": [
+      "nancy_ipock"
+    ],
+    "citations": [
+      "ancestry_tree_35916700"
+    ],
+    "note": "Date from the family's Ancestry tree, which attaches no record. Falls five years after Nancy's own approximate birth of 1781, one of the branch's stacked date problems."
   }
 ]

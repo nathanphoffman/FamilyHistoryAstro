@@ -7,7 +7,8 @@ birth:
   date: "1650"
   citations: [ancestry_tree_35916700]
 death:
-  date: "1729"
+  date: "1729-09"
+  note: "Died about three months before her husband, Thones Kunders (30 Dec 1729) — a genuinely separate date in the source tree, not a duplicate of his."
   citations: [ancestry_tree_35916700]
 unverified: "Present in this tree only on the authority of the family's Ancestry tree, which attaches no record to the claim."
 ---
