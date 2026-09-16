@@ -65,6 +65,16 @@ Held here now:
   both in it
 - `wash_co_va_marriage_1889_booher` — Jane's third marriage, to the widower
   James L. Booher, 1889; new find, not documented anywhere before this search
+- `va_births_1859_virginia_lewis` — birth register for Virginia E. Lewis, 17
+  Jul 1859, Upper District, Washington Co. VA; found via FamilySearch's public
+  tree profile for Philip Lewis (GF3K-P43), which carries genuinely attached
+  record sources despite being a user-submitted tree; first primary-record
+  naming of Philip Lewis and Margaret Rouse's eldest daughter
+- `census_1870_washington_lewis` — 1870 census, Washington Co. VA; Margaret
+  Lewis head of household, no husband recorded, with children Virginia (10),
+  George (8), America (6) and Missouri (3); narrows Philip Lewis's death to
+  before Oct 1870 and gives primary-record backing, for the first time, to
+  three daughters previously known only from the family's Ancestry tree
 
 Still wanted, in the order they are worth chasing:
 

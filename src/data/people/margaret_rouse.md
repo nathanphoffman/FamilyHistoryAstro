@@ -5,7 +5,7 @@ sex: F
 birth:
   date: "c.1838"
   place: "Virginia"
-  citations: [prior_ai_research]
+  citations: [prior_ai_research, census_1870_washington_lewis]
 parents:
   father: philip_isaac_rouse
   mother: margaret_peggy_rowe
@@ -24,11 +24,12 @@ daughter of the long-lived Philip Isaac Rouse, she married Philip Lewis across t
 state line in Ashe County, North Carolina, in March 1852 — a child by any modern
 measure, though not a startling age for a mountain marriage of that time.
 
-The match did not buy her an easy adulthood. Philip died before he reached fifty,
-leaving Margaret a widow with young children and little to fall back on, and within
-a few years she married again, to a man named Noah Kidd. Her son George — who would
-carry the Lewis line forward — was a small boy through all of it, and grew up with
-a stepfather in the house.
+The match did not buy her an easy adulthood. Philip died before he reached forty,
+leaving Margaret to head her own household with four young children — Virginia,
+George, America and Missouri — and little to fall back on. Within a year she
+married again, to a man named Noah Kidd. Her son George — who would carry the
+Lewis line forward — was a small boy through all of it, and grew up with a
+stepfather in the house.
 
 ## Research Notes
 
@@ -42,7 +43,15 @@ unverified; the marriage date is not carried at all.
 
 That tree also gives her own birth year as 1835 rather than about 1838, which
 would make her seventeen at her marriage instead of fourteen. Both are
-approximate and neither is documented, so the older reading is kept.
+approximate and neither is documented on their own, but the 1870 census records
+her age as 32 — a birth year of about 1838, agreeing with the older
+reading.[^census_1870_washington_lewis]
 
-Philip died between about 1867 and 1871, leaving her a widow with children, and
-she remarried Noah Kidd in 1871.[^marriage_1871_kidd_rouse]
+By that same 1870 census she was already head of her own household in
+Washington County, Virginia, with no husband recorded and four children at
+home: Virginia (10), George (8), America (6) and Missouri
+(3).[^census_1870_washington_lewis] That narrows Philip's death to before
+October 1870, and confirms — for the first time from a primary record rather
+than only the family's Ancestry tree — that George had three sisters, not just
+the one, Virginia, already visible in the 1860 census. She remarried Noah Kidd
+the following year, in 1871.[^marriage_1871_kidd_rouse]

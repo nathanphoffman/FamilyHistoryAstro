@@ -7,9 +7,9 @@ birth:
   place: "North Carolina"
   citations: [prior_ai_research]
 death:
-  date: "c.1867–71"
-  note: "Died at roughly 37–41; his widow remarried in 1871."
-  citations: [prior_ai_research]
+  date: "before 1870-10"
+  note: "Died at roughly 37–40; already dead by the 1870 census, which shows Margaret as head of household with no husband recorded. His widow remarried in 1871."
+  citations: [census_1870_washington_lewis]
 parents:
   father: isaac_jacob_lewis
   mother: susannah_osborne
@@ -29,9 +29,10 @@ tags:
 
 The Lewis name in this family runs back to Philip, and then it stops. He was born
 around 1830 somewhere in North Carolina, married Margaret Rouse in the mountains
-of Ashe County in the spring of 1852, and was dead before he reached his
-mid-forties — leaving Margaret a young widow with children, who remarried within a
-few years, because a widow in that place and time could not really afford not to.
+of Ashe County in the spring of 1852, and was dead before his fortieth birthday —
+leaving Margaret a young widow with four small children, Virginia, George,
+America and Missouri, who remarried within a few years, because a widow in that
+place and time could not really afford not to.
 
 Beyond those few dates, Philip is a closed door. No record names his parents; the
 names that hang above him come only from other families' online trees. If the
@@ -47,10 +48,23 @@ anyone can actually see.
 ## Research Notes
 
 Philip Lewis was born about 1830 in North Carolina and married Margaret Rouse at
-Ashe County, North Carolina, on 11 March 1852.[^ashe_co_nc_marriage_1852] He died
-young, somewhere between about 1867 and 1871, at roughly forty; Margaret
-remarried Noah Kidd in 1871,[^marriage_1871_kidd_rouse] a quick remarriage of the
+Ashe County, North Carolina, on 11 March 1852.[^ashe_co_nc_marriage_1852] The
+1870 census of Washington County, Virginia finds Margaret already head of her
+own household, no husband recorded, with their four children — Virginia (10),
+George (8), America (6) and Missouri (3) — so Philip was dead by then, at
+roughly thirty-seven to forty, narrower than the "about 1867–71" this record
+previously carried.[^census_1870_washington_lewis] Margaret remarried Noah Kidd
+the following year, in 1871,[^marriage_1871_kidd_rouse] a quick remarriage of the
 kind that economic necessity forced on a widow with children.
+
+Those four children were, until now, known only from the family's Ancestry
+tree — the tree attaches no record to any of them, and George's own page notes
+that "that branch is unworked."[^ancestry_tree_35916700] The 1870 census gives
+Virginia, America and Missouri their first primary-source backing, and a
+separate birth register independently confirms Virginia by name: born 17 July
+1859 in the Upper District of Washington County, daughter of Philip Lewis and
+Margaret Lewis.[^va_births_1859_virginia_lewis] She is also the "daughter
+Virginia, 1" of the 1860 census.[^census_1860_washington_lewis]
 
 The Ancestry tree places that death in Pennsylvania, which would mean the move
 north began a generation earlier than this chart has

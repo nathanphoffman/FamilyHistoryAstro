@@ -70,7 +70,7 @@
     "repository": "FamilySearch",
     "url": "https://ancestors.familysearch.org/en/GF3K-P43",
     "reliability": "unsourced",
-    "note": "User-submitted tree carrying no attached evidence. Recorded here only to show what the claim rests on."
+    "note": "User-submitted tree. Cited here only for its parentage claim (Isaac Jacob Lewis & Susannah Osborne), which attaches no record. The same profile does carry 19 genuinely attached historical-record sources for other facts about Philip Lewis — his marriage, the 1860 and 1870 censuses, and a birth register for daughter Virginia — which have been pulled out and cited directly (va_births_1859_virginia_lewis, census_1870_washington_lewis) rather than through this tree entry."
   },
   "census_1850_sullivan_tn": {
     "title": "1850 U.S. census, Sullivan Co., Tennessee — Obediah Sams household",
@@ -419,6 +419,24 @@
     "reliability": "primary",
     "note": "Image read here. Western District, Washington Co., VA, enumerated 7 Aug 1860, p. 168, household #1201: Philip Lewis, 30, day labourer, personal estate $50, b. NC; wife Margaret, 24, housekeeper; daughter Virginia, 1. The family was already resident in Washington County five months before George's December 1860 birth — so there was no 1865 arrival from Charleston, SC, as the family Bible notes claim. The household directly below (lines 30-40) is Isaac Rouse's family, including a Philip Rouse — very likely Margaret (Rouse) Lewis's birth family living next door.",
     "image": "/img/census_1860_washington_lewis.jpg"
+  },
+  "va_births_1859_virginia_lewis": {
+    "title": "Birth register, Virginia E. Lewis, 17 Jul 1859",
+    "repository": "Virginia, Births and Christenings, 1584-1917 / Virginia, Vital Records, 1715-1912 (FamilySearch, from the Library of Virginia)",
+    "date": "1859-07-17",
+    "reliability": "primary",
+    "note": "Image read here (Register of Births, Upper District, Washington Co., VA, film 004023748, image 148). Virginia E Lewis, born 17 Jul 1859, Upper District, Washington Co., Virginia; father Philip Lewis, mother Margaret Lewis. The first primary record naming a Lewis daughter — Virginia — who does not appear anywhere in this project's earlier notes; she is also the \"daughter Virginia, 1\" of the following year's census (census_1860_washington_lewis).",
+    "image": "/img/va_births_1859_virginia_lewis.jpg",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:XT4T-4Z8"
+  },
+  "census_1870_washington_lewis": {
+    "title": "1870 U.S. census, Washington Co., Virginia — Margaret Lewis household",
+    "repository": "U.S. Federal Census (FamilySearch)",
+    "date": "1870-10-25",
+    "reliability": "primary",
+    "note": "Image read here. Division 4, Washington Co., VA, enumerated 25 Oct 1870, p. 18, household #133: Margaret Lewis, 32, head of household (no husband recorded), b. Virginia; children Virginia (10), George (8), America (6), Missouri (3), all b. Virginia. Confirms Philip Lewis was already dead by this census — narrowing his death to before Oct 1870, rather than the fuller 1867–71 range previously carried on his own account — and gives primary-record backing, for the first time, to three daughters (Virginia, America, Missouri) previously known only from the family's Ancestry tree (see george_w_lewis's \"His sisters\" section). Virginia's age here (10) and the exact birth register (va_births_1859_virginia_lewis) agree to within a year, ordinary census rounding.",
+    "image": "/img/census_1870_washington_lewis.jpg",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MFG6-MW4"
   },
   "lewis_death_cert_walter_1955": {
     "title": "Death certificate, Walter Andrew Lewis, 8 Jan 1955",

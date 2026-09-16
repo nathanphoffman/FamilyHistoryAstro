@@ -59,14 +59,17 @@ William.
 
 ## His sisters
 
-The family's Ancestry tree, which attaches no record, gives George three sisters
-in his mother's household: Virginia Lewis, born about 1860 and near George's own
-age; America Lewis, born about 1864; and Missouri Lewis, born about
-1867.[^ancestry_tree_35916700] All three carry place names, a pattern the tree's
-compiler singled out as distinctive, and the tree associates the group with a
-widowed Margaret Lewis keeping house in Washington County, Virginia, in
-1870.[^ancestry_tree_35916700] Nothing is recorded of what became of Virginia,
-America or Missouri as adults; that branch is unworked.[^ancestry_tree_35916700]
+George had three sisters, confirmed by primary record rather than only the
+family's Ancestry tree that first named them: Virginia, born 17 July 1859 per
+her own birth register and already "daughter Virginia, 1" in the 1860
+census;[^va_births_1859_virginia_lewis][^census_1860_washington_lewis] America,
+about six years old in 1870; and Missouri, about three. All three are found
+with George and their widowed mother Margaret, head of her own household in
+Washington County, Virginia, in the 1870 census.[^census_1870_washington_lewis]
+All three carry place names, a pattern the family's Ancestry tree's compiler
+singled out as distinctive.[^ancestry_tree_35916700] Nothing is recorded of
+what became of Virginia, America or Missouri as adults; that branch remains
+unworked.
 
 ## The 1944 obituaries
 
