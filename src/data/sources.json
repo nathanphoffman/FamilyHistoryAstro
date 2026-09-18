@@ -126,7 +126,7 @@
     "repository": "U.S. Federal Census",
     "date": "1900",
     "reliability": "primary",
-    "note": "Image read here. \"Will Smith\", age 37, b. Sept 1863, race recorded Black, married 9 years, occupation labourer; wife Virgie (24), son Richard (11, b. c.1889), niece Irene Dickison (1) in the household. FamilySearch tree-attached to the same William Smith identity (KLTW-485) as the 1870 and 1886 records.",
+    "note": "Image read here. \"Will Smith\", age 37, b. Sept 1863, race recorded Black, married 9 years, occupation labourer; wife Virgie (23, b. Aug 1876), son Richard (11, b. c.1889), niece Irene Dickison (1) in the household. FamilySearch tree-attached to the same William Smith identity (KLTW-485) as the 1870 and 1886 records.",
     "image": "/img/census_1900_smith.jpg"
   },
   "marriage_1886_smith_hall": {
@@ -311,7 +311,7 @@
     "repository": "U.S. Federal Census",
     "date": "1900",
     "reliability": "primary",
-    "note": "Image read here. North part, ED 114, sheet 7A, dwelling/family 122, enumerated 12 Jun 1900. George W. Lewis, head, 40; wife Harriet, 43, b. Tennessee; children Walter A. (17), James H. (line 23, age 15, b. Jan 1885), Mary E. (11), Frank P. (6), Bettie J. (4), Jerrie (1). FamilySearch tree-attaches this record to James Hiram Lewis, 1885–1955.",
+    "note": "Image read here. North part, ED 114, sheet 7A, dwelling/family 122, enumerated 12 Jun 1900. George W. Lewis, head, 39; wife Harriet, 42, b. Tennessee; children Walter A. (16), James H. (line 23, age 15, b. Jan 1885), Mary E. (11), Frank P. (5), Bettie J. (3), Jerrie (1). FamilySearch tree-attaches this record to James Hiram Lewis, 1885–1955.",
     "image": "/img/census_1900_holston.jpg"
   },
   "census_1910_stony_creek": {
@@ -342,7 +342,7 @@
     "repository": "U.S. Federal Census (Ancestry, collection 6742)",
     "date": "1880",
     "reliability": "primary",
-    "note": "Image read here. Dwelling/family 133/136, Glade Spring, Washington Co.: Mary Stovall, 38, white, keeping house, head of household, b. Virginia, both parents b. Virginia; Maggie, 18, daughter, at home, cannot write; Henry, 12, son, at home; William, 9, son, at home — all three children b. Virginia. This is Mary E. Lester after John Quincy Alexander Stovall's departure (c.1878–80): she is alone, head of her own household, four to six years before Maggie's daughter Alice was born in 1886. Henry (b. c.1868) and William (b. c.1871) are two previously undocumented children of J. Q. A. Stovall and Mary E. Lester — siblings of Maggie not recorded anywhere else in this tree.",
+    "note": "Image read here. Dwelling/family 133/136, Glade Spring, Washington Co.: Mary Stovall, 38, white, keeping house, head of household, b. Virginia, both parents b. Virginia; Maggie, 18, daughter, at home, cannot write; Henry, 12, son, at home; William, 9, son, at home — all three children b. Virginia. This is Mary E. Lester after John Quincy Alexander Stovall's departure (c.1878–80): she is alone, head of her own household, four to six years before Maggie's daughter Alice was born in 1886. Henry (b. c.1868) and William (b. c.1871) are two previously undocumented children of J. Q. A. Stovall and Mary E. Lester — siblings of Maggie not recorded anywhere else in this tree. CAVEAT (added after a 2026-09 image audit): the attached scan is cropped too tightly and ends partway through Henry's line (row 20) — William's line (21) isn't captured at all. Mary and Maggie's own rows are fully visible and confirmed; Henry's and William's ages/birthplaces are not independently image-verified until a fuller crop of this page is saved.",
     "image": "/img/census_1880_glade_spring_stovall.jpg"
   },
   "census_1910_glade_spring_maggie": {
@@ -417,7 +417,7 @@
     "repository": "U.S. Federal Census (Ancestry)",
     "date": "1860-08-07",
     "reliability": "primary",
-    "note": "Image read here. Western District, Washington Co., VA, enumerated 7 Aug 1860, p. 168, household #1201: Philip Lewis, 30, day labourer, personal estate $50, b. NC; wife Margaret, 24, housekeeper; daughter Virginia, 1. The family was already resident in Washington County five months before George's December 1860 birth — so there was no 1865 arrival from Charleston, SC, as the family Bible notes claim. The household directly below (lines 30-40) is Isaac Rouse's family, including a Philip Rouse — very likely Margaret (Rouse) Lewis's birth family living next door.",
+    "note": "Image read here. Western District, Washington Co., VA, enumerated 7 Aug 1860, p. 168, household #1201: Philip Lewis, 30, day labourer, personal estate $50, b. NC; wife Margaret, 24, housekeeper; daughter Virginia, 1. The family was already resident in Washington County five months before George's December 1860 birth — so there was no 1865 arrival from Charleston, SC, as the family Bible notes claim. Two households below (lines 23-29 are Elizabeth Owens' family; lines 30-31 are Philip Rouse's own household with wife Sarah; lines 32-40 are the separate household of Isaac Rouse, wife Margaret, and children) — Philip Rouse is very likely Margaret (Rouse) Lewis's birth family living next door, in his own household rather than folded into Isaac's.",
     "image": "/img/census_1860_washington_lewis.jpg"
   },
   "va_births_1859_virginia_lewis": {
@@ -434,7 +434,7 @@
     "repository": "U.S. Federal Census (FamilySearch)",
     "date": "1870-10-25",
     "reliability": "primary",
-    "note": "Image read here. Division 4, Washington Co., VA, enumerated 25 Oct 1870, p. 18, household #133: Margaret Lewis, 32, head of household (no husband recorded), b. Virginia; children Virginia (10), George (8), America (6), Missouri (3), all b. Virginia. Confirms Philip Lewis was already dead by this census — narrowing his death to before Oct 1870, rather than the fuller 1867–71 range previously carried on his own account — and gives primary-record backing, for the first time, to three daughters (Virginia, America, Missouri) previously known only from the family's Ancestry tree (see george_w_lewis's \"His sisters\" section). Virginia's age here (10) and the exact birth register (va_births_1859_virginia_lewis) agree to within a year, ordinary census rounding.",
+    "note": "Image read here. Division 4, Washington Co., VA, enumerated 25 Oct 1870, p. 18, household #133: Margaret Lewis, 32, head of household (no husband recorded), b. Virginia; children Virginia (10), George (8), America (6), Missouri (3), all b. Virginia. Confirms Philip Lewis was already dead by this census — narrowing his death to before Oct 1870, rather than the fuller 1867–71 range previously carried on his own account — and gives primary-record backing, for the first time, to three daughters (Virginia, America, Missouri) previously known only from the family's Ancestry tree (see george_w_lewis's \"His sisters\" section). Virginia's age here (10) and the exact birth register (va_births_1859_virginia_lewis) agree to within a year, ordinary census rounding. CAVEAT (added after a 2026-09 image audit): the attached scan is a single page, and household #133 begins on its very last line (line 39, Margaret) with only Virginia's line (40) following before the page ends. George, America, and Missouri's ages/birthplaces are NOT actually visible on this image — they must appear on the following page (p. 19), which has not been captured here. Their inclusion in this household is well corroborated elsewhere (the family's own tree, and consistency with Margaret and Virginia's confirmed entries), but is not independently image-verified until that page is added.",
     "image": "/img/census_1870_washington_lewis.jpg",
     "url": "https://www.familysearch.org/ark:/61903/1:1:MFG6-MW4"
   },

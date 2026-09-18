@@ -14,7 +14,7 @@ parents:
   note: "Born illegitimate; no father recorded."
   citations: [prior_ai_research]
 notes:
-  - "Recorded as widowed by 1870, though her husband Hiram's fate after 1864 is unknown."
+  - "Living without a husband present by 1870, presumably widowed, though her husband Hiram's fate after 1864 is unknown. (The 1870 census itself has no marital-status column — that assumption isn't sourced to the census image directly.)"
   - "Widowed a second time by 1880 as Jane Booher, head of her own household; married a third time in 1889, to James L. Booher."
 tags:
   - { tag: illegitimacy, note: "Born illegitimate; no father recorded" }
@@ -32,10 +32,11 @@ daughters were sent to live in other people's homes because she could no longer
 keep them. And her daughter Harriet, in turn, grew up among relatives and
 stepfamily rather than with her own parents.
 
-The 1870 census calls Jane a widow, though the truth was blurrier than that. Her
+By 1870 Jane was living without a husband, in her mother's house, and the family
+came to think of her as a widow — though the truth was blurrier than that. Her
 husband had deserted the army and simply never returned, and "widow" was as much
 what she hoped, or what she was willing to say aloud, as anything she knew for
-certain. She was living then in her mother's house — her mother having also
+certain. Her mother's house was itself a second marriage — her mother having also
 remarried after being left on her own.
 
 Later, Jane married again herself, into a family named Booher — and was
@@ -53,13 +54,12 @@ Carrier; no father is recorded for her. She appears on her daughter Harriet's
 1913 Virginia death certificate under the garbled spelling "Jane
 Carrol".[^sams_death_cert_1913]
 
-Her own household did not survive the war. By 1870 she is recorded as widowed
-and living in the household of her mother Mary and her stepfather George
-Berry — Mary having remarried after 1866.[^census_1870_carrier_berry] The
-"widowed" is worth reading carefully: her husband Hiram Sams deserted in 1864 and
-was never traced again, so the designation may reflect what she believed, what
-she was willing to say, or simply the enumerator's shorthand for a woman with no
-husband present.
+Her own household did not survive the war. By 1870 she is recorded, as "Jane
+Sambs," living without a husband in the household of her mother Mary and her
+stepfather George Berry — Mary having remarried after 1866.[^census_1870_carrier_berry]
+The 1870 census schedule has no marital-status column, so "widowed" is not itself
+something the census records; it is this project's inference from her husband
+Hiram Sams's 1864 desertion and disappearance, not a fact read off this image.
 
 Her daughters Harriet and Mary were not with her in 1870; both had been placed
 out.[^census_1870_carrier_berry] Boarding children elsewhere was a common
